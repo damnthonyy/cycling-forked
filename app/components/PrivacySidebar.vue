@@ -5,6 +5,7 @@
         <a 
           :href="`#${sec.id}`" 
           class="block px-4 py-2 text-gray-600 hover:text-primary-600 hover:bg-primary-50 rounded-lg transition-all duration-200"
+          :class="{ 'text-primary-600 bg-primary-50': activeSection === sec.id }"
           @click="handleClick"
         >
           {{ sec.title }}
@@ -16,6 +17,9 @@
 
 <script setup lang="ts">
 import { sections } from '@/layout/privacy-policy';
+import { ref, onMounted, onUnmounted } from 'vue';
+
+const activeSection = ref('');
 
 const handleClick = (e: MouseEvent) => {
   e.preventDefault();
@@ -25,6 +29,7 @@ const handleClick = (e: MouseEvent) => {
     const element = document.getElementById(id);
     if (element) {
       element.scrollIntoView({ behavior: 'smooth' });
+      activeSection.value = id;
     }
   }
 };
