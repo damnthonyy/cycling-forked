@@ -32,10 +32,8 @@ useSeoMeta({
     <UHeader>
       <template #left>
         <NuxtLink to="/">
-          <LogoPro class="w-auto h-6 shrink-0" />
+           <img src="https://avatars.githubusercontent.com/u/189975276?s=200&v=4" class="w-auto h-6 shrink-0 w-10 h-10 bg-gray-200" />
         </NuxtLink>
-
-        <TemplateMenu />
       </template>
 
       <template #right>
