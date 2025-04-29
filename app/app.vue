@@ -13,15 +13,15 @@ useHead({
   }
 })
 
-const title = 'Nuxt UI Pro - Starter'
-const description = 'Nuxt UI Pro is a collection of premium Vue components built on top of Nuxt UI to create beautiful & responsive Nuxt applications in minutes.'
+const title = 'Cycling'
+const description = 'make cycling easier'
 
 useSeoMeta({
   title,
   description,
   ogTitle: title,
   ogDescription: description,
-  ogImage: 'https://ui-pro-starter.nuxt.dev/social-card.png',
+  ogImage: 'https://avatars.githubusercontent.com/u/189975276?s=200&v=4',
   twitterImage: 'https://ui-pro-starter.nuxt.dev/social-card.png',
   twitterCard: 'summary_large_image'
 })
@@ -32,7 +32,9 @@ useSeoMeta({
     <UHeader>
       <template #left>
         <NuxtLink to="/">
-          <LogoPro class="w-auto h-6 shrink-0" />
+          <!-- <LogoPro class="w-auto h-6 shrink-0" /> -->
+          <!-- <h1>Cycling</h1> -->
+           <img src="https://avatars.githubusercontent.com/u/189975276?s=200&v=4" class="w-auto h-6 shrink-0 w-10 h-10 bg-gray-200" />
         </NuxtLink>
 
         <TemplateMenu />
@@ -42,7 +44,7 @@ useSeoMeta({
         <UColorModeButton />
 
         <UButton
-          to="https://github.com/nuxt-ui-pro/starter"
+          to="https://github.com/your-username/cycling"
           target="_blank"
           icon="i-simple-icons-github"
           aria-label="GitHub"
@@ -57,7 +59,7 @@ useSeoMeta({
     </UMain>
 
     <USeparator icon="i-simple-icons-nuxtdotjs" />
-
+    
     <Footer />
   </UApp>
 </template>

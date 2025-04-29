@@ -1,8 +1,8 @@
 <template>
   <div>
     <UPageHero
-      title="Nuxt UI Pro - Starter"
-      description="Nuxt UI Pro is a collection of premium components built on top of Nuxt UI to create beautiful & responsive applications in minutes."
+      title="Cycling"
+      description="make cycling easier"
       :links="[{
         label: 'Get started',
         to: 'https://ui.nuxt.com/getting-started/installation/pro/nuxt',
@@ -41,8 +41,8 @@
 
     <UPageSection>
       <UPageCTA
-        title="Start with Nuxt UI Pro today!"
-        description="Nuxt UI Pro is free in development, but you need a license to use it in production."
+        title="Start with Cycling today!"
+        description="Cycling is free in development, but you need a license to use it in production."
         variant="subtle"
         :links="[{
           label: 'Buy now',
