@@ -1,0 +1,7083 @@
+{
+"arbo_principale" : [
+{
+"code_metier" : "A",
+"libelle" : "Agriculture et P�che, Espaces naturels et Espaces verts, Soins aux animaux",
+"liste_domaine_prof" : [
+{
+"code_metier" : "A11",
+"libelle" : "Engins agricoles et forestiers",
+"liste_metier" : [
+{
+"code_ogr" : 6,
+"code_rome" : "A1101",
+"libelle" : "Conducteur / Conductrice d'engins agricoles"
+}
+,
+{
+"code_ogr" : 403950,
+"code_rome" : "A1102",
+"libelle" : "Conducteur / Conductrice d'engins d'exploitation foresti�re"
+}
+]
+}
+,
+{
+"code_metier" : "A12",
+"libelle" : "Espaces naturels et espaces verts",
+"liste_metier" : [
+{
+"code_ogr" : 7,
+"code_rome" : "A1201",
+"libelle" : "B�cheron / B�cheronne"
+}
+,
+{
+"code_ogr" : 8,
+"code_rome" : "A1202",
+"libelle" : "Agent / Agente d'entretien des espaces naturels"
+}
+,
+{
+"code_ogr" : 9,
+"code_rome" : "A1203",
+"libelle" : "Agent / Agente d'entretien des espaces verts"
+}
+,
+{
+"code_ogr" : 10,
+"code_rome" : "A1204",
+"libelle" : "Garde Forestier / Foresti�re"
+}
+,
+{
+"code_ogr" : 11,
+"code_rome" : "A1205",
+"libelle" : "Sylviculteur / Sylvicultrice"
+}
+,
+{
+"code_ogr" : 488634,
+"code_rome" : "A1206",
+"libelle" : "Concepteur / Conceptrice paysagiste"
+}
+,
+{
+"code_ogr" : 488640,
+"code_rome" : "A1207",
+"libelle" : "Chef / Cheffe d'�quipe d'entretien d'espaces naturels"
+}
+,
+{
+"code_ogr" : 488734,
+"code_rome" : "A1208",
+"libelle" : "Jardinier / Jardini�re paysagiste"
+}
+,
+{
+"code_ogr" : 488755,
+"code_rome" : "A1209",
+"libelle" : "�lagueur / �lagueuse"
+}
+,
+{
+"code_ogr" : 488859,
+"code_rome" : "A1210",
+"libelle" : "Ouvrier forestier / Ouvri�re foresti�re"
+}
+,
+{
+"code_ogr" : 489042,
+"code_rome" : "A1211",
+"libelle" : "Chef / Cheffe d'�quipe paysagiste"
+}
+,
+{
+"code_ogr" : 489058,
+"code_rome" : "A1212",
+"libelle" : "Chef / Cheffe d'�quipe de travaux forestiers"
+}
+,
+{
+"code_ogr" : 489160,
+"code_rome" : "A1213",
+"libelle" : "Conducteur / Conductrice de travaux forestiers"
+}
+]
+}
+,
+{
+"code_metier" : "A13",
+"libelle" : "Etudes et assistance technique",
+"liste_metier" : [
+{
+"code_ogr" : 12,
+"code_rome" : "A1301",
+"libelle" : "Technicien / Technicienne de culture mara�ch�re"
+}
+,
+{
+"code_ogr" : 13,
+"code_rome" : "A1302",
+"libelle" : "Technicien / Technicienne agricole"
+}
+,
+{
+"code_ogr" : 14,
+"code_rome" : "A1303",
+"libelle" : "Ing�nieur / Ing�nieure agronome"
+}
+,
+{
+"code_ogr" : 403951,
+"code_rome" : "A1304",
+"libelle" : "Conseiller / Conseill�re technique agricole"
+}
+]
+}
+,
+{
+"code_metier" : "A14",
+"libelle" : "Production",
+"liste_metier" : [
+{
+"code_ogr" : 15,
+"code_rome" : "A1401",
+"libelle" : "Vendangeur / Vendangeuse"
+}
+,
+{
+"code_ogr" : 16,
+"code_rome" : "A1402",
+"libelle" : "Aide horticole"
+}
+,
+{
+"code_ogr" : 17,
+"code_rome" : "A1403",
+"libelle" : "Aide d'�levage agricole"
+}
+,
+{
+"code_ogr" : 18,
+"code_rome" : "A1404",
+"libelle" : "Aquaculteur / Aquacultrice"
+}
+,
+{
+"code_ogr" : 19,
+"code_rome" : "A1405",
+"libelle" : "Arboriculteur / Arboricultrice"
+}
+,
+{
+"code_ogr" : 20,
+"code_rome" : "A1406",
+"libelle" : "Capitaine de p�che"
+}
+,
+{
+"code_ogr" : 21,
+"code_rome" : "A1407",
+"libelle" : "�leveur / �leveuse de bovins"
+}
+,
+{
+"code_ogr" : 22,
+"code_rome" : "A1408",
+"libelle" : "�leveur / �leveuse d'animaux"
+}
+,
+{
+"code_ogr" : 23,
+"code_rome" : "A1409",
+"libelle" : "Aviculteur / Avicultrice"
+}
+,
+{
+"code_ogr" : 24,
+"code_rome" : "A1410",
+"libelle" : "�leveur / �leveuse d'ovins"
+}
+,
+{
+"code_ogr" : 25,
+"code_rome" : "A1411",
+"libelle" : "�leveur / �leveuse de porcins"
+}
+,
+{
+"code_ogr" : 26,
+"code_rome" : "A1412",
+"libelle" : "Fromager-affineur / Fromag�re-affineuse"
+}
+,
+{
+"code_ogr" : 27,
+"code_rome" : "A1413",
+"libelle" : "Brasseur / Brasseuse de bi�re"
+}
+,
+{
+"code_ogr" : 28,
+"code_rome" : "A1414",
+"libelle" : "Horticulteur / Horticultrice"
+}
+,
+{
+"code_ogr" : 29,
+"code_rome" : "A1415",
+"libelle" : "Marin-p�cheur"
+}
+,
+{
+"code_ogr" : 30,
+"code_rome" : "A1416",
+"libelle" : "Agriculteur / Agricultrice"
+}
+,
+{
+"code_ogr" : 31,
+"code_rome" : "A1417",
+"libelle" : "Saliculteur / Salicultrice"
+}
+,
+{
+"code_ogr" : 403953,
+"code_rome" : "A1418",
+"libelle" : "Viticulteur / Viticultrice"
+}
+,
+{
+"code_ogr" : 403955,
+"code_rome" : "A1419",
+"libelle" : "Ouvrier agricole polyvalent / Ouvri�re agricole polyvalente"
+}
+,
+{
+"code_ogr" : 403956,
+"code_rome" : "A1420",
+"libelle" : "Chef / Cheffe de culture responsable d'unit� de production agricole"
+}
+,
+{
+"code_ogr" : 403957,
+"code_rome" : "A1421",
+"libelle" : "Palefrenier soigneur / Palefreni�re soigneuse"
+}
+,
+{
+"code_ogr" : 488334,
+"code_rome" : "A1422",
+"libelle" : "Caviste de chai"
+}
+,
+{
+"code_ogr" : 488346,
+"code_rome" : "A1423",
+"libelle" : "�nologue"
+}
+,
+{
+"code_ogr" : 488709,
+"code_rome" : "A1424",
+"libelle" : "Pisciculteur / Piscicultrice"
+}
+,
+{
+"code_ogr" : 488728,
+"code_rome" : "A1425",
+"libelle" : "Ramendeur / Ramendeuse"
+}
+,
+{
+"code_ogr" : 488766,
+"code_rome" : "A1426",
+"libelle" : "�ducateur canin / �ducatrice canine"
+}
+,
+{
+"code_ogr" : 488776,
+"code_rome" : "A1427",
+"libelle" : "Go�monier / Go�moni�re"
+}
+,
+{
+"code_ogr" : 488903,
+"code_rome" : "A1428",
+"libelle" : "Algoculteur / Algocultrice"
+}
+,
+{
+"code_ogr" : 488914,
+"code_rome" : "A1429",
+"libelle" : "Apiculteur / Apicultrice"
+}
+,
+{
+"code_ogr" : 489025,
+"code_rome" : "A1430",
+"libelle" : "Ouvrier / Ouvri�re aquacole"
+}
+,
+{
+"code_ogr" : 489063,
+"code_rome" : "A1431",
+"libelle" : "Ouvrier / Ouvri�re piscicole"
+}
+]
+}
+,
+{
+"code_metier" : "A15",
+"libelle" : "Soins aux animaux",
+"liste_metier" : [
+{
+"code_ogr" : 32,
+"code_rome" : "A1501",
+"libelle" : "Auxiliaire v�t�rinaire"
+}
+,
+{
+"code_ogr" : 33,
+"code_rome" : "A1502",
+"libelle" : "Mar�chal-ferrant / Mar�chale-ferrante"
+}
+,
+{
+"code_ogr" : 34,
+"code_rome" : "A1503",
+"libelle" : "Toiletteur / Toiletteuse d'animaux"
+}
+,
+{
+"code_ogr" : 35,
+"code_rome" : "A1504",
+"libelle" : "V�t�rinaire"
+}
+,
+{
+"code_ogr" : 488328,
+"code_rome" : "A1505",
+"libelle" : "Animalier / Animali�re de laboratoire"
+}
+,
+{
+"code_ogr" : 488759,
+"code_rome" : "A1506",
+"libelle" : "Soigneur animalier / Soigneuse animali�re"
+}
+,
+{
+"code_ogr" : 489019,
+"code_rome" : "A1507",
+"libelle" : "Ost�opathe animalier / Ost�opathe animali�re"
+}
+]
+}
+]
+}
+,
+{
+"code_metier" : "B",
+"libelle" : "Arts et Fa�onnage d'ouvrages d'art",
+"liste_domaine_prof" : [
+{
+"code_metier" : "B11",
+"libelle" : "Arts plastiques",
+"liste_metier" : [
+{
+"code_ogr" : 36,
+"code_rome" : "B1101",
+"libelle" : "Artiste Plasticien / Plasticienne"
+}
+,
+{
+"code_ogr" : 488793,
+"code_rome" : "B1102",
+"libelle" : "Mosa�ste d'art"
+}
+,
+{
+"code_ogr" : 489159,
+"code_rome" : "B1103",
+"libelle" : "Sculpteur / Sculptrice ornemaniste sur pierre"
+}
+]
+}
+,
+{
+"code_metier" : "B12",
+"libelle" : "C�ramique",
+"liste_metier" : [
+{
+"code_ogr" : 37,
+"code_rome" : "B1201",
+"libelle" : "C�ramiste d'art"
+}
+]
+}
+,
+{
+"code_metier" : "B13",
+"libelle" : "D�coration",
+"liste_metier" : [
+{
+"code_ogr" : 38,
+"code_rome" : "B1301",
+"libelle" : "�talagiste"
+}
+,
+{
+"code_ogr" : 39,
+"code_rome" : "B1302",
+"libelle" : "D�corateur / D�coratrice d'objets d'art"
+}
+,
+{
+"code_ogr" : 40,
+"code_rome" : "B1303",
+"libelle" : "Graveur / Graveuse d'art"
+}
+,
+{
+"code_ogr" : 488724,
+"code_rome" : "B1304",
+"libelle" : "Artisan d�monstrateur / Artisane d�monstratrice"
+}
+]
+}
+,
+{
+"code_metier" : "B14",
+"libelle" : "Fibres et papier",
+"liste_metier" : [
+{
+"code_ogr" : 41,
+"code_rome" : "B1401",
+"libelle" : "Vannier / Vanni�re"
+}
+,
+{
+"code_ogr" : 42,
+"code_rome" : "B1402",
+"libelle" : "Relieur / Relieuse d'art"
+}
+,
+{
+"code_ogr" : 489064,
+"code_rome" : "B1403",
+"libelle" : "Restaurateur / Restauratrice de livres anciens"
+}
+]
+}
+,
+{
+"code_metier" : "B15",
+"libelle" : "Instruments de musique",
+"liste_metier" : [
+{
+"code_ogr" : 43,
+"code_rome" : "B1501",
+"libelle" : "Facteur / Factrice d'instruments de musique"
+}
+]
+}
+,
+{
+"code_metier" : "B16",
+"libelle" : "M�tal, verre, bijouterie et horlogerie",
+"liste_metier" : [
+{
+"code_ogr" : 44,
+"code_rome" : "B1601",
+"libelle" : "M�tallier / M�talli�re d'art"
+}
+,
+{
+"code_ogr" : 45,
+"code_rome" : "B1602",
+"libelle" : "Souffleur / Souffleuse de verre"
+}
+,
+{
+"code_ogr" : 46,
+"code_rome" : "B1603",
+"libelle" : "Op�rateur / Op�ratrice en orf�vrerie et bijouterie"
+}
+,
+{
+"code_ogr" : 47,
+"code_rome" : "B1604",
+"libelle" : "Horloger / Horlog�re"
+}
+,
+{
+"code_ogr" : 404957,
+"code_rome" : "B1605",
+"libelle" : "Bijoutier / Bijouti�re"
+}
+,
+{
+"code_ogr" : 404968,
+"code_rome" : "B1606",
+"libelle" : "Joaillier / Joailli�re"
+}
+,
+{
+"code_ogr" : 404969,
+"code_rome" : "B1607",
+"libelle" : "Lapidaire / Diamantaire"
+}
+,
+{
+"code_ogr" : 404972,
+"code_rome" : "B1608",
+"libelle" : "Op�rateur / Op�ratrice en bijouterie"
+}
+,
+{
+"code_ogr" : 404976,
+"code_rome" : "B1609",
+"libelle" : "Responsable d'atelier en bijouterie ou joaillerie"
+}
+,
+{
+"code_ogr" : 404977,
+"code_rome" : "B1610",
+"libelle" : "Sertisseur / Sertisseuse en bijouterie ou joaillerie"
+}
+,
+{
+"code_ogr" : 404978,
+"code_rome" : "B1611",
+"libelle" : "Trieur / Trieuse de pierres et perles"
+}
+,
+{
+"code_ogr" : 404964,
+"code_rome" : "B1612",
+"libelle" : "Concepteur / Conceptrice num�rique en bijouterie joaillerie"
+}
+,
+{
+"code_ogr" : 488744,
+"code_rome" : "B1613",
+"libelle" : "Orf�vre"
+}
+,
+{
+"code_ogr" : 489215,
+"code_rome" : "B1614",
+"libelle" : "Monteur / Monteuse en orf�vrerie"
+}
+,
+{
+"code_ogr" : 490200,
+"code_rome" : "B1615",
+"libelle" : "Orf�vre tourneur repousseur / Orf�vre tourneuse repousseuse"
+}
+]
+}
+,
+{
+"code_metier" : "B17",
+"libelle" : "Taxidermie",
+"liste_metier" : [
+{
+"code_ogr" : 48,
+"code_rome" : "B1701",
+"libelle" : "Taxidermiste"
+}
+]
+}
+,
+{
+"code_metier" : "B18",
+"libelle" : "Tissu et cuirs",
+"liste_metier" : [
+{
+"code_ogr" : 49,
+"code_rome" : "B1801",
+"libelle" : "Chapelier / Chapeli�re"
+}
+,
+{
+"code_ogr" : 50,
+"code_rome" : "B1802",
+"libelle" : "Maroquinier / Maroquini�re"
+}
+,
+{
+"code_ogr" : 51,
+"code_rome" : "B1803",
+"libelle" : "Couturier / Couturi�re"
+}
+,
+{
+"code_ogr" : 52,
+"code_rome" : "B1804",
+"libelle" : "Brodeur / Brodeuse"
+}
+,
+{
+"code_ogr" : 53,
+"code_rome" : "B1805",
+"libelle" : "Styliste"
+}
+,
+{
+"code_ogr" : 54,
+"code_rome" : "B1806",
+"libelle" : "Tapissier / Tapissi�re d'ameublement"
+}
+]
+}
+]
+}
+,
+{
+"code_metier" : "C",
+"libelle" : "Banque, Assurance, Immobilier",
+"liste_domaine_prof" : [
+{
+"code_metier" : "C11",
+"libelle" : "Assurance",
+"liste_metier" : [
+{
+"code_ogr" : 55,
+"code_rome" : "C1101",
+"libelle" : "Charg� / Charg�e de produit en assurances"
+}
+,
+{
+"code_ogr" : 56,
+"code_rome" : "C1102",
+"libelle" : "Conseiller / Conseill�re en assurances"
+}
+,
+{
+"code_ogr" : 57,
+"code_rome" : "C1103",
+"libelle" : "Courtier / Courti�re en assurance"
+}
+,
+{
+"code_ogr" : 58,
+"code_rome" : "C1104",
+"libelle" : "Responsable d'agence en assurances"
+}
+,
+{
+"code_ogr" : 59,
+"code_rome" : "C1105",
+"libelle" : "Actuaire"
+}
+,
+{
+"code_ogr" : 60,
+"code_rome" : "C1106",
+"libelle" : "Expert / Experte risques en assurances"
+}
+,
+{
+"code_ogr" : 61,
+"code_rome" : "C1107",
+"libelle" : "Charg� / Charg�e d'indemnisations en assurances"
+}
+,
+{
+"code_ogr" : 62,
+"code_rome" : "C1108",
+"libelle" : "Responsable de d�partement en assurances"
+}
+,
+{
+"code_ogr" : 63,
+"code_rome" : "C1109",
+"libelle" : "Gestionnaire en assurances"
+}
+,
+{
+"code_ogr" : 64,
+"code_rome" : "C1110",
+"libelle" : "Souscripteur / Souscriptrice en assurances"
+}
+,
+{
+"code_ogr" : 404510,
+"code_rome" : "C1111",
+"libelle" : "Mandataire en assurance"
+}
+,
+{
+"code_ogr" : 404511,
+"code_rome" : "C1112",
+"libelle" : "Agent g�n�ral / Agente g�n�rale d'assurance"
+}
+,
+{
+"code_ogr" : 489048,
+"code_rome" : "C1113",
+"libelle" : "Expert / Experte en assurances dommages automobile"
+}
+]
+}
+,
+{
+"code_metier" : "C12",
+"libelle" : "Banque",
+"liste_metier" : [
+{
+"code_ogr" : 65,
+"code_rome" : "C1201",
+"libelle" : "Charg� / Charg�e d'accueil en banque"
+}
+,
+{
+"code_ogr" : 66,
+"code_rome" : "C1202",
+"libelle" : "Analyste de cr�dits et risques bancaires"
+}
+,
+{
+"code_ogr" : 67,
+"code_rome" : "C1203",
+"libelle" : "Charg� / Charg�e d'affaires bancaires entreprise"
+}
+,
+{
+"code_ogr" : 68,
+"code_rome" : "C1204",
+"libelle" : "Gestionnaire de produits bancaires"
+}
+,
+{
+"code_ogr" : 69,
+"code_rome" : "C1205",
+"libelle" : "Conseiller / Conseill�re en gestion de patrimoine"
+}
+,
+{
+"code_ogr" : 70,
+"code_rome" : "C1206",
+"libelle" : "Conseiller / Conseill�re de client�le bancaire"
+}
+,
+{
+"code_ogr" : 71,
+"code_rome" : "C1207",
+"libelle" : "Directeur / Directrice d'agence bancaire"
+}
+,
+{
+"code_ogr" : 403084,
+"code_rome" : "C1208",
+"libelle" : "Courtier / Courti�re en banque"
+}
+]
+}
+,
+{
+"code_metier" : "C13",
+"libelle" : "Finance",
+"liste_metier" : [
+{
+"code_ogr" : 72,
+"code_rome" : "C1301",
+"libelle" : "Trader"
+}
+,
+{
+"code_ogr" : 73,
+"code_rome" : "C1302",
+"libelle" : "Gestionnaire des op�rations sur les march�s financiers"
+}
+,
+{
+"code_ogr" : 74,
+"code_rome" : "C1303",
+"libelle" : "G�rant / G�rante de portefeuille financier"
+}
+]
+}
+,
+{
+"code_metier" : "C14",
+"libelle" : "Gestion administrative banque et assurances",
+"liste_metier" : [
+{
+"code_ogr" : 75,
+"code_rome" : "C1401",
+"libelle" : "Agent administratif / Agente administrative banque ou assurance"
+}
+]
+}
+,
+{
+"code_metier" : "C15",
+"libelle" : "Immobilier",
+"liste_metier" : [
+{
+"code_ogr" : 76,
+"code_rome" : "C1501",
+"libelle" : "Gestionnaire de copropri�t�"
+}
+,
+{
+"code_ogr" : 77,
+"code_rome" : "C1502",
+"libelle" : "Charg� / Charg�e de gestion locative en immobilier"
+}
+,
+{
+"code_ogr" : 78,
+"code_rome" : "C1503",
+"libelle" : "Charg� / Charg�e d'affaires immobili�res"
+}
+,
+{
+"code_ogr" : 79,
+"code_rome" : "C1504",
+"libelle" : "Conseiller / Conseill�re immobilier"
+}
+,
+{
+"code_ogr" : 403085,
+"code_rome" : "C1505",
+"libelle" : "Responsable d'agence immobili�re"
+}
+,
+{
+"code_ogr" : 489040,
+"code_rome" : "C1506",
+"libelle" : "Responsable de projet immobilier"
+}
+]
+}
+]
+}
+,
+{
+"code_metier" : "D",
+"libelle" : "Commerce, Vente et Grande distribution",
+"liste_domaine_prof" : [
+{
+"code_metier" : "D11",
+"libelle" : "Commerce alimentaire et m�tiers de bouche",
+"liste_metier" : [
+{
+"code_ogr" : 80,
+"code_rome" : "D1101",
+"libelle" : "Boucher / Bouch�re"
+}
+,
+{
+"code_ogr" : 81,
+"code_rome" : "D1102",
+"libelle" : "Boulanger / Boulang�re"
+}
+,
+{
+"code_ogr" : 82,
+"code_rome" : "D1103",
+"libelle" : "Charcutier-traiteur / Charcuti�re-traiteuse"
+}
+,
+{
+"code_ogr" : 83,
+"code_rome" : "D1104",
+"libelle" : "P�tissier / P�tissi�re"
+}
+,
+{
+"code_ogr" : 84,
+"code_rome" : "D1105",
+"libelle" : "Poissonnier / Poissonni�re"
+}
+,
+{
+"code_ogr" : 85,
+"code_rome" : "D1106",
+"libelle" : "�picier / �pici�re"
+}
+,
+{
+"code_ogr" : 86,
+"code_rome" : "D1107",
+"libelle" : "Grossiste en produits frais"
+}
+,
+{
+"code_ogr" : 488597,
+"code_rome" : "D1108",
+"libelle" : "Chef boulanger / Cheffe boulang�re"
+}
+,
+{
+"code_ogr" : 489178,
+"code_rome" : "D1109",
+"libelle" : "Chef boucher / Cheffe bouch�re"
+}
+]
+}
+,
+{
+"code_metier" : "D12",
+"libelle" : "Commerce non alimentaire et de prestations de confort",
+"liste_metier" : [
+{
+"code_ogr" : 87,
+"code_rome" : "D1201",
+"libelle" : "Brocanteur / Brocanteuse"
+}
+,
+{
+"code_ogr" : 88,
+"code_rome" : "D1202",
+"libelle" : "Coiffeur / Coiffeuse"
+}
+,
+{
+"code_ogr" : 89,
+"code_rome" : "D1203",
+"libelle" : "Agent thermal / Agente thermale"
+}
+,
+{
+"code_ogr" : 90,
+"code_rome" : "D1204",
+"libelle" : "Loueur / Loueuse de v�hicules"
+}
+,
+{
+"code_ogr" : 91,
+"code_rome" : "D1205",
+"libelle" : "Employ� / Employ�e de pressing"
+}
+,
+{
+"code_ogr" : 92,
+"code_rome" : "D1206",
+"libelle" : "Cordonnier / Cordonni�re"
+}
+,
+{
+"code_ogr" : 93,
+"code_rome" : "D1207",
+"libelle" : "Retoucheur / Retoucheuse en habillement"
+}
+,
+{
+"code_ogr" : 94,
+"code_rome" : "D1208",
+"libelle" : "Esth�ticien / Esth�ticienne"
+}
+,
+{
+"code_ogr" : 95,
+"code_rome" : "D1209",
+"libelle" : "Fleuriste"
+}
+,
+{
+"code_ogr" : 96,
+"code_rome" : "D1210",
+"libelle" : "Vendeur / Vendeuse en animalerie"
+}
+,
+{
+"code_ogr" : 97,
+"code_rome" : "D1211",
+"libelle" : "Vendeur / Vendeuse d'articles de sport et loisirs"
+}
+,
+{
+"code_ogr" : 98,
+"code_rome" : "D1212",
+"libelle" : "Vendeur / Vendeuse en �quipement de la maison"
+}
+,
+{
+"code_ogr" : 99,
+"code_rome" : "D1213",
+"libelle" : "Vendeur / Vendeuse grossiste de mat�riels et �quipements"
+}
+,
+{
+"code_ogr" : 100,
+"code_rome" : "D1214",
+"libelle" : "Vendeur / Vendeuse en pr�t-�-porter"
+}
+,
+{
+"code_ogr" : 488614,
+"code_rome" : "D1215",
+"libelle" : "Posticheur / Posticheuse"
+}
+,
+{
+"code_ogr" : 488617,
+"code_rome" : "D1216",
+"libelle" : "Coiffeur barbier / Coiffeuse barbi�re"
+}
+,
+{
+"code_ogr" : 488784,
+"code_rome" : "D1217",
+"libelle" : "Socio-coiffeur / Socio-coiffeuse"
+}
+,
+{
+"code_ogr" : 488919,
+"code_rome" : "D1218",
+"libelle" : "Formateur coiffeur / Formatrice coiffeuse"
+}
+,
+{
+"code_ogr" : 489010,
+"code_rome" : "D1219",
+"libelle" : "Vendeur / Vendeuse conseil en jardinerie"
+}
+,
+{
+"code_ogr" : 489036,
+"code_rome" : "D1220",
+"libelle" : "G�rant / G�rante salon de coiffure"
+}
+,
+{
+"code_ogr" : 489056,
+"code_rome" : "D1221",
+"libelle" : "Vendeur / Vendeuse de produits culturels et ludiques"
+}
+,
+{
+"code_ogr" : 489570,
+"code_rome" : "D1222",
+"libelle" : "Masseur / Masseuse bien-�tre"
+}
+]
+}
+,
+{
+"code_metier" : "D13",
+"libelle" : "Direction de magasin de d�tail",
+"liste_metier" : [
+{
+"code_ogr" : 101,
+"code_rome" : "D1301",
+"libelle" : "Responsable de magasin"
+}
+,
+{
+"code_ogr" : 488618,
+"code_rome" : "D1302",
+"libelle" : "Responsable de boutique"
+}
+]
+}
+,
+{
+"code_metier" : "D14",
+"libelle" : "Force de vente",
+"liste_metier" : [
+{
+"code_ogr" : 102,
+"code_rome" : "D1401",
+"libelle" : "Assistant commercial / Assistante commerciale"
+}
+,
+{
+"code_ogr" : 103,
+"code_rome" : "D1402",
+"libelle" : "Commercial / Commerciale grands comptes et entreprises"
+}
+,
+{
+"code_ogr" : 104,
+"code_rome" : "D1403",
+"libelle" : "Commercial / Commerciale aupr�s des particuliers"
+}
+,
+{
+"code_ogr" : 105,
+"code_rome" : "D1404",
+"libelle" : "Commercial / Commerciale en automobiles"
+}
+,
+{
+"code_ogr" : 106,
+"code_rome" : "D1405",
+"libelle" : "Conseiller / Conseill�re en information m�dicale"
+}
+,
+{
+"code_ogr" : 107,
+"code_rome" : "D1406",
+"libelle" : "Responsable des ventes"
+}
+,
+{
+"code_ogr" : 108,
+"code_rome" : "D1407",
+"libelle" : "Technico-commercial / Technico-commerciale"
+}
+,
+{
+"code_ogr" : 109,
+"code_rome" : "D1408",
+"libelle" : "T�l�conseiller / T�l�conseill�re"
+}
+,
+{
+"code_ogr" : 403074,
+"code_rome" : "D1409",
+"libelle" : "Assistant / Assistante administration des ventes"
+}
+,
+{
+"code_ogr" : 403086,
+"code_rome" : "D1410",
+"libelle" : "Attach� commercial / Attach�e commerciale"
+}
+,
+{
+"code_ogr" : 488282,
+"code_rome" : "D1411",
+"libelle" : "Responsable Efficacit� Commerciale (SFE)"
+}
+,
+{
+"code_ogr" : 488290,
+"code_rome" : "D1412",
+"libelle" : "D�l�gu� m�dical hospitalier / D�l�gu�e m�dicale hospitali�re"
+}
+,
+{
+"code_ogr" : 488301,
+"code_rome" : "D1413",
+"libelle" : "D�l�gu� / D�l�gu�e pharmaceutique"
+}
+,
+{
+"code_ogr" : 488326,
+"code_rome" : "D1414",
+"libelle" : "Responsable de zone internationale"
+}
+,
+{
+"code_ogr" : 488868,
+"code_rome" : "D1415",
+"libelle" : "Charg� / Charg�e de relation client"
+}
+,
+{
+"code_ogr" : 488879,
+"code_rome" : "D1416",
+"libelle" : "Commercial / Commerciale aupr�s d'une client�le d'entreprises"
+}
+,
+{
+"code_ogr" : 488908,
+"code_rome" : "D1417",
+"libelle" : "Chef / Cheffe des ventes"
+}
+,
+{
+"code_ogr" : 488926,
+"code_rome" : "D1418",
+"libelle" : "N�gociant / N�gociante en bois"
+}
+,
+{
+"code_ogr" : 488928,
+"code_rome" : "D1419",
+"libelle" : "Courtier / Courti�re en vins"
+}
+,
+{
+"code_ogr" : 489185,
+"code_rome" : "D1420",
+"libelle" : "Cadre Technico-commercial / Technico-commerciale"
+}
+]
+}
+,
+{
+"code_metier" : "D15",
+"libelle" : "Grande distribution",
+"liste_metier" : [
+{
+"code_ogr" : 110,
+"code_rome" : "D1501",
+"libelle" : "Animateur / Animatrice des ventes"
+}
+,
+{
+"code_ogr" : 111,
+"code_rome" : "D1502",
+"libelle" : "Chef / Cheffe de rayon alimentaire"
+}
+,
+{
+"code_ogr" : 112,
+"code_rome" : "D1503",
+"libelle" : "Chef / Cheffe de rayon de produits non alimentaires"
+}
+,
+{
+"code_ogr" : 113,
+"code_rome" : "D1504",
+"libelle" : "Directeur / Directrice de magasin"
+}
+,
+{
+"code_ogr" : 114,
+"code_rome" : "D1505",
+"libelle" : "Caissier / Caissi�re"
+}
+,
+{
+"code_ogr" : 115,
+"code_rome" : "D1506",
+"libelle" : "Marchandiseur / Marchandiseuse"
+}
+,
+{
+"code_ogr" : 116,
+"code_rome" : "D1507",
+"libelle" : "Employ� / Employ�e de libre-service"
+}
+,
+{
+"code_ogr" : 117,
+"code_rome" : "D1508",
+"libelle" : "Responsable de caisses"
+}
+,
+{
+"code_ogr" : 118,
+"code_rome" : "D1509",
+"libelle" : "Responsable de d�partement en grande distribution"
+}
+,
+{
+"code_ogr" : 403087,
+"code_rome" : "D1510",
+"libelle" : "Chef / Cheffe de secteur commercial"
+}
+]
+}
+]
+}
+,
+{
+"code_metier" : "E",
+"libelle" : "Communication, M�dia et Multim�dia",
+"liste_domaine_prof" : [
+{
+"code_metier" : "E11",
+"libelle" : "Edition et communication",
+"liste_metier" : [
+{
+"code_ogr" : 119,
+"code_rome" : "E1101",
+"libelle" : "Animateur / Animatrice de communaut� virtuelle"
+}
+,
+{
+"code_ogr" : 120,
+"code_rome" : "E1102",
+"libelle" : "�crivain / �crivaine"
+}
+,
+{
+"code_ogr" : 121,
+"code_rome" : "E1103",
+"libelle" : "Charg� / Charg�e des relations publiques"
+}
+,
+{
+"code_ogr" : 122,
+"code_rome" : "E1104",
+"libelle" : "Concepteur / Conceptrice de contenus multimedia"
+}
+,
+{
+"code_ogr" : 123,
+"code_rome" : "E1105",
+"libelle" : "�diteur / �ditrice"
+}
+,
+{
+"code_ogr" : 124,
+"code_rome" : "E1106",
+"libelle" : "Journaliste"
+}
+,
+{
+"code_ogr" : 125,
+"code_rome" : "E1107",
+"libelle" : "Chef / Cheffe de projet �v�nementiel"
+}
+,
+{
+"code_ogr" : 126,
+"code_rome" : "E1108",
+"libelle" : "Traducteur / Traductrice"
+}
+,
+{
+"code_ogr" : 403088,
+"code_rome" : "E1109",
+"libelle" : "Directeur / Directrice de la communication"
+}
+,
+{
+"code_ogr" : 488749,
+"code_rome" : "E1110",
+"libelle" : "Community manager"
+}
+,
+{
+"code_ogr" : 488867,
+"code_rome" : "E1111",
+"libelle" : "Game master jeux online"
+}
+,
+{
+"code_ogr" : 488921,
+"code_rome" : "E1112",
+"libelle" : "Charg� / Charg�e de communication"
+}
+,
+{
+"code_ogr" : 489052,
+"code_rome" : "E1113",
+"libelle" : "E-commercial / E-commerciale"
+}
+]
+}
+,
+{
+"code_metier" : "E12",
+"libelle" : "Images et sons",
+"liste_metier" : [
+{
+"code_ogr" : 127,
+"code_rome" : "E1201",
+"libelle" : "Photographe"
+}
+,
+{
+"code_ogr" : 128,
+"code_rome" : "E1202",
+"libelle" : "Employ� / Employ�e de laboratoire cin�matographique"
+}
+,
+{
+"code_ogr" : 129,
+"code_rome" : "E1203",
+"libelle" : "D�veloppeur / D�veloppeuse de photographies"
+}
+,
+{
+"code_ogr" : 130,
+"code_rome" : "E1204",
+"libelle" : "Projectionniste"
+}
+,
+{
+"code_ogr" : 131,
+"code_rome" : "E1205",
+"libelle" : "Graphiste"
+}
+,
+{
+"code_ogr" : 404036,
+"code_rome" : "E1206",
+"libelle" : "UX - UI Designer"
+}
+,
+{
+"code_ogr" : 488782,
+"code_rome" : "E1207",
+"libelle" : "Motion designer"
+}
+]
+}
+,
+{
+"code_metier" : "E13",
+"libelle" : "Industries graphiques",
+"liste_metier" : [
+{
+"code_ogr" : 132,
+"code_rome" : "E1301",
+"libelle" : "Conducteur / Conductrice de machines d'impression"
+}
+,
+{
+"code_ogr" : 133,
+"code_rome" : "E1302",
+"libelle" : "Conducteur / Conductrice de machines de fa�onnage routage"
+}
+,
+{
+"code_ogr" : 134,
+"code_rome" : "E1303",
+"libelle" : "Responsable d'atelier d'impression"
+}
+,
+{
+"code_ogr" : 135,
+"code_rome" : "E1304",
+"libelle" : "Agent / Agente de fa�onnage et routage"
+}
+,
+{
+"code_ogr" : 136,
+"code_rome" : "E1305",
+"libelle" : "Correcteur / Correctrice"
+}
+,
+{
+"code_ogr" : 137,
+"code_rome" : "E1306",
+"libelle" : "Op�rateur / Op�ratrice de pr�presse"
+}
+,
+{
+"code_ogr" : 138,
+"code_rome" : "E1307",
+"libelle" : "Reprographe"
+}
+,
+{
+"code_ogr" : 139,
+"code_rome" : "E1308",
+"libelle" : "Technicien / Technicienne des industries graphiques"
+}
+]
+}
+,
+{
+"code_metier" : "E14",
+"libelle" : "Publicit�",
+"liste_metier" : [
+{
+"code_ogr" : 140,
+"code_rome" : "E1401",
+"libelle" : "Chef / Cheffe de publicit�"
+}
+,
+{
+"code_ogr" : 141,
+"code_rome" : "E1402",
+"libelle" : "M�dia Planneur / Planneuse"
+}
+]
+}
+]
+}
+,
+{
+"code_metier" : "F",
+"libelle" : "Construction, B�timent et Travaux publics",
+"liste_domaine_prof" : [
+{
+"code_metier" : "F11",
+"libelle" : "Conception et �tudes",
+"liste_metier" : [
+{
+"code_ogr" : 142,
+"code_rome" : "F1101",
+"libelle" : "Architecte"
+}
+,
+{
+"code_ogr" : 143,
+"code_rome" : "F1102",
+"libelle" : "Architecte d'int�rieur"
+}
+,
+{
+"code_ogr" : 144,
+"code_rome" : "F1103",
+"libelle" : "Diagnostiqueur / Diagnostiqueuse immobilier"
+}
+,
+{
+"code_ogr" : 145,
+"code_rome" : "F1104",
+"libelle" : "Dessinateur / Dessinatrice du BTP"
+}
+,
+{
+"code_ogr" : 146,
+"code_rome" : "F1105",
+"libelle" : "G�ologue"
+}
+,
+{
+"code_ogr" : 147,
+"code_rome" : "F1106",
+"libelle" : "Ing�nieur / Ing�nieure d'�tudes BTP"
+}
+,
+{
+"code_ogr" : 148,
+"code_rome" : "F1107",
+"libelle" : "G�om�tre-topographe"
+}
+,
+{
+"code_ogr" : 149,
+"code_rome" : "F1108",
+"libelle" : "M�treur / M�treuse de la construction"
+}
+,
+{
+"code_ogr" : 403075,
+"code_rome" : "F1109",
+"libelle" : "Assistant / Assistante g�om�tre"
+}
+,
+{
+"code_ogr" : 403079,
+"code_rome" : "F1110",
+"libelle" : "Dessinateur / Dessinatrice enveloppe du b�timent"
+}
+,
+{
+"code_ogr" : 403089,
+"code_rome" : "F1111",
+"libelle" : "Ing�nieur / Ing�nieure g�nie civil"
+}
+,
+{
+"code_ogr" : 403090,
+"code_rome" : "F1112",
+"libelle" : "Ing�nieur / Ing�nieure calcul et structure"
+}
+,
+{
+"code_ogr" : 404537,
+"code_rome" : "F1113",
+"libelle" : "Charg� / Charg�e d'affaires en r�novation �nerg�tique"
+}
+,
+{
+"code_ogr" : 404538,
+"code_rome" : "F1114",
+"libelle" : "Conseiller / Conseill�re en r�novation �nerg�tique"
+}
+,
+{
+"code_ogr" : 488578,
+"code_rome" : "F1115",
+"libelle" : "Vulcanologue"
+}
+,
+{
+"code_ogr" : 488589,
+"code_rome" : "F1116",
+"libelle" : "Ing�nieur / Ing�nieure d�mant�lement nucl�aire"
+}
+,
+{
+"code_ogr" : 488590,
+"code_rome" : "F1117",
+"libelle" : "Ing�nieur / Ing�nieure d'�tude CVC"
+}
+,
+{
+"code_ogr" : 488615,
+"code_rome" : "F1118",
+"libelle" : "Sismologue"
+}
+,
+{
+"code_ogr" : 488621,
+"code_rome" : "F1119",
+"libelle" : "P�dologue"
+}
+,
+{
+"code_ogr" : 488623,
+"code_rome" : "F1120",
+"libelle" : "�conomiste de la construction"
+}
+,
+{
+"code_ogr" : 488637,
+"code_rome" : "F1121",
+"libelle" : "Architecte du patrimoine national"
+}
+,
+{
+"code_ogr" : 488719,
+"code_rome" : "F1122",
+"libelle" : "Ing�nieur / Ing�nieure Chantier nucl�aire"
+}
+,
+{
+"code_ogr" : 489200,
+"code_rome" : "F1123",
+"libelle" : "Glaciologue"
+}
+,
+{
+"code_ogr" : 488897,
+"code_rome" : "F1124",
+"libelle" : "Hydrologue"
+}
+,
+{
+"code_ogr" : 489011,
+"code_rome" : "F1125",
+"libelle" : "BIM Manager"
+}
+,
+{
+"code_ogr" : 489182,
+"code_rome" : "F1126",
+"libelle" : "Collaborateur / Collaboratrice d'architecte"
+}
+]
+}
+,
+{
+"code_metier" : "F12",
+"libelle" : "Conduite et encadrement de chantier - travaux",
+"liste_metier" : [
+{
+"code_ogr" : 150,
+"code_rome" : "F1201",
+"libelle" : "Conducteur / Conductrice de travaux"
+}
+,
+{
+"code_ogr" : 151,
+"code_rome" : "F1202",
+"libelle" : "Chef / Cheffe de chantier"
+}
+,
+{
+"code_ogr" : 152,
+"code_rome" : "F1203",
+"libelle" : "Responsable d'exploitation de gisements et de carri�res"
+}
+,
+{
+"code_ogr" : 153,
+"code_rome" : "F1204",
+"libelle" : "Animateur / Animatrice QSE - Qualit� S�curit� Environnement BTP"
+}
+,
+{
+"code_ogr" : 403076,
+"code_rome" : "F1205",
+"libelle" : "Responsable de travaux BTP"
+}
+,
+{
+"code_ogr" : 489220,
+"code_rome" : "F1206",
+"libelle" : "Chef / Cheffe d'�quipe b�timent"
+}
+,
+{
+"code_ogr" : 490402,
+"code_rome" : "F1207",
+"libelle" : "Chef / Cheffe d'�quipe travaux publics"
+}
+]
+}
+,
+{
+"code_metier" : "F13",
+"libelle" : "Engins de chantier",
+"liste_metier" : [
+{
+"code_ogr" : 154,
+"code_rome" : "F1301",
+"libelle" : "Grutier / Gruti�re"
+}
+,
+{
+"code_ogr" : 155,
+"code_rome" : "F1302",
+"libelle" : "Conducteur / Conductrice d'engins de chantier"
+}
+]
+}
+,
+{
+"code_metier" : "F14",
+"libelle" : "Extraction",
+"liste_metier" : [
+{
+"code_ogr" : 156,
+"code_rome" : "F1401",
+"libelle" : "Foreur / Foreuse"
+}
+,
+{
+"code_ogr" : 157,
+"code_rome" : "F1402",
+"libelle" : "Extracteur / Extractrice de roches"
+}
+]
+}
+,
+{
+"code_metier" : "F15",
+"libelle" : "Montage de structures",
+"liste_metier" : [
+{
+"code_ogr" : 158,
+"code_rome" : "F1501",
+"libelle" : "Poseur / Poseuse de charpentes ou constructions bois"
+}
+,
+{
+"code_ogr" : 159,
+"code_rome" : "F1502",
+"libelle" : "�chafaudeur / �chafaudeuse"
+}
+,
+{
+"code_ogr" : 160,
+"code_rome" : "F1503",
+"libelle" : "Charpentier / Charpenti�re"
+}
+,
+{
+"code_ogr" : 488871,
+"code_rome" : "F1504",
+"libelle" : "Charpentier / Charpenti�re de marine"
+}
+]
+}
+,
+{
+"code_metier" : "F16",
+"libelle" : "Second oeuvre",
+"liste_metier" : [
+{
+"code_ogr" : 161,
+"code_rome" : "F1601",
+"libelle" : "Pl�trier / Pl�tri�re"
+}
+,
+{
+"code_ogr" : 162,
+"code_rome" : "F1602",
+"libelle" : "�lectricien / �lectricienne du b�timent"
+}
+,
+{
+"code_ogr" : 163,
+"code_rome" : "F1603",
+"libelle" : "Plombier / Plombi�re"
+}
+,
+{
+"code_ogr" : 164,
+"code_rome" : "F1604",
+"libelle" : "Plaquiste"
+}
+,
+{
+"code_ogr" : 165,
+"code_rome" : "F1605",
+"libelle" : "�lectricien / �lectricienne r�seaux"
+}
+,
+{
+"code_ogr" : 166,
+"code_rome" : "F1606",
+"libelle" : "Peintre en b�timent"
+}
+,
+{
+"code_ogr" : 167,
+"code_rome" : "F1607",
+"libelle" : "Menuisier / Menuisi�re aluminium"
+}
+,
+{
+"code_ogr" : 168,
+"code_rome" : "F1608",
+"libelle" : "Carreleur / Carreleuse"
+}
+,
+{
+"code_ogr" : 169,
+"code_rome" : "F1609",
+"libelle" : "Solier / Soli�re"
+}
+,
+{
+"code_ogr" : 170,
+"code_rome" : "F1610",
+"libelle" : "Installateur mainteneur / Installatrice mainteneuse en syst�mes solaires, thermiques et photovolta�ques"
+}
+,
+{
+"code_ogr" : 171,
+"code_rome" : "F1611",
+"libelle" : "Fa�adier / Fa�adi�re"
+}
+,
+{
+"code_ogr" : 172,
+"code_rome" : "F1612",
+"libelle" : "Tailleur / Tailleuse de pierre"
+}
+,
+{
+"code_ogr" : 173,
+"code_rome" : "F1613",
+"libelle" : "�tancheur / �tancheuse"
+}
+,
+{
+"code_ogr" : 403073,
+"code_rome" : "F1614",
+"libelle" : "Poseur / Poseuse en fermetures de b�timent"
+}
+,
+{
+"code_ogr" : 403080,
+"code_rome" : "F1615",
+"libelle" : "Poseur / Poseuse de cloisons d�montables et mobiles"
+}
+,
+{
+"code_ogr" : 403081,
+"code_rome" : "F1616",
+"libelle" : "Poseur / Poseuse de menuiseries ext�rieures"
+}
+,
+{
+"code_ogr" : 403082,
+"code_rome" : "F1617",
+"libelle" : "Poseur / Poseuse de v�randa"
+}
+,
+{
+"code_ogr" : 403083,
+"code_rome" : "F1618",
+"libelle" : "Poseur / Poseuse de fa�ade vitr�e"
+}
+,
+{
+"code_ogr" : 404037,
+"code_rome" : "F1619",
+"libelle" : "Couvreur / Couvreuse"
+}
+,
+{
+"code_ogr" : 404539,
+"code_rome" : "F1620",
+"libelle" : "Installateur / Installatrice chauffage et climatisation"
+}
+,
+{
+"code_ogr" : 488572,
+"code_rome" : "F1621",
+"libelle" : "Ramoneur / Ramoneuse"
+}
+,
+{
+"code_ogr" : 488912,
+"code_rome" : "F1622",
+"libelle" : "Monteur / Monteuse en �clairage public"
+}
+,
+{
+"code_ogr" : 489030,
+"code_rome" : "F1623",
+"libelle" : "Monteur / Monteuse installation r�seaux mobiles"
+}
+,
+{
+"code_ogr" : 489084,
+"code_rome" : "F1624",
+"libelle" : "Staffeur Stuqueur / Staffeuse Stuqueuse"
+}
+,
+{
+"code_ogr" : 489189,
+"code_rome" : "F1625",
+"libelle" : "Monteur / Monteuse en agencement"
+}
+]
+}
+,
+{
+"code_metier" : "F17",
+"libelle" : "Travaux et gros oeuvre",
+"liste_metier" : [
+{
+"code_ogr" : 174,
+"code_rome" : "F1701",
+"libelle" : "Coffreur / Coffreuse"
+}
+,
+{
+"code_ogr" : 175,
+"code_rome" : "F1702",
+"libelle" : "Ouvrier / Ouvri�re en voiries"
+}
+,
+{
+"code_ogr" : 176,
+"code_rome" : "F1703",
+"libelle" : "Ma�on / Ma�onne"
+}
+,
+{
+"code_ogr" : 177,
+"code_rome" : "F1704",
+"libelle" : "Man�uvre b�timent"
+}
+,
+{
+"code_ogr" : 178,
+"code_rome" : "F1705",
+"libelle" : "Poseur / Poseuse de canalisations"
+}
+,
+{
+"code_ogr" : 179,
+"code_rome" : "F1706",
+"libelle" : "Armaturier / Armaturi�re de l'industrie du b�ton"
+}
+,
+{
+"code_ogr" : 403952,
+"code_rome" : "F1707",
+"libelle" : "Ma�on / Ma�onne du paysage"
+}
+,
+{
+"code_ogr" : 403954,
+"code_rome" : "F1708",
+"libelle" : "Installateur-poseur / Installatrice-poseuse de piscines pr�fabriqu�es"
+}
+,
+{
+"code_ogr" : 404038,
+"code_rome" : "F1709",
+"libelle" : "D�molisseur / D�molisseuse"
+}
+,
+{
+"code_ogr" : 488283,
+"code_rome" : "F1710",
+"libelle" : "Magasinier / Magasini�re en n�goce des mat�riaux de construction"
+}
+]
+}
+]
+}
+,
+{
+"code_metier" : "G",
+"libelle" : "H�tellerie-Restauration, Tourisme, Loisirs et Animation",
+"liste_domaine_prof" : [
+{
+"code_metier" : "G11",
+"libelle" : "Accueil et promotion touristique",
+"liste_metier" : [
+{
+"code_ogr" : 180,
+"code_rome" : "G1101",
+"libelle" : "Agent / Agente d'accueil touristique"
+}
+,
+{
+"code_ogr" : 181,
+"code_rome" : "G1102",
+"libelle" : "Charg� / Charg�e de promotion touristique"
+}
+,
+{
+"code_ogr" : 488584,
+"code_rome" : "G1103",
+"libelle" : "Directeur / Directrice de parc r�gional"
+}
+,
+{
+"code_ogr" : 488765,
+"code_rome" : "G1104",
+"libelle" : "Consultant / Consultante tourisme"
+}
+,
+{
+"code_ogr" : 488774,
+"code_rome" : "G1105",
+"libelle" : "Directeur / Directrice d'office du tourisme"
+}
+,
+{
+"code_ogr" : 488794,
+"code_rome" : "G1106",
+"libelle" : "Animateur / Animatrice du patrimoine"
+}
+,
+{
+"code_ogr" : 488895,
+"code_rome" : "G1107",
+"libelle" : "H�te / H�tesse d'accueil et d'animation de croisi�re"
+}
+,
+{
+"code_ogr" : 489216,
+"code_rome" : "G1108",
+"libelle" : "Directeur / Directrice de pays d'accueil touristique"
+}
+]
+}
+,
+{
+"code_metier" : "G12",
+"libelle" : "Animation d'activit�s de loisirs",
+"liste_metier" : [
+{
+"code_ogr" : 182,
+"code_rome" : "G1201",
+"libelle" : "Guide-accompagnateur / Guide-accompagnatrice"
+}
+,
+{
+"code_ogr" : 183,
+"code_rome" : "G1202",
+"libelle" : "Animateur / Animatrice d'activit�s culturelles et de loisirs"
+}
+,
+{
+"code_ogr" : 184,
+"code_rome" : "G1203",
+"libelle" : "Animateur / Animatrice aupr�s des jeunes"
+}
+,
+{
+"code_ogr" : 185,
+"code_rome" : "G1204",
+"libelle" : "�ducateur sportif / �ducatrice sportive"
+}
+,
+{
+"code_ogr" : 186,
+"code_rome" : "G1205",
+"libelle" : "Op�rateur / Op�ratrice d'attraction"
+}
+,
+{
+"code_ogr" : 187,
+"code_rome" : "G1206",
+"libelle" : "Croupier / Croupi�re"
+}
+,
+{
+"code_ogr" : 403072,
+"code_rome" : "G1207",
+"libelle" : "Surveillant / Surveillante de baignade"
+}
+,
+{
+"code_ogr" : 403077,
+"code_rome" : "G1208",
+"libelle" : "Entra�neur / Entra�neure de sport professionnel et de haut niveau"
+}
+,
+{
+"code_ogr" : 403078,
+"code_rome" : "G1209",
+"libelle" : "Animateur / Animatrice de loisirs sportifs"
+}
+,
+{
+"code_ogr" : 403958,
+"code_rome" : "G1210",
+"libelle" : "Enseignant / Enseignante d'�quitation"
+}
+,
+{
+"code_ogr" : 404961,
+"code_rome" : "G1211",
+"libelle" : "Analyste de la performance sportive"
+}
+,
+{
+"code_ogr" : 404962,
+"code_rome" : "G1212",
+"libelle" : "Animateur socio-sportif / Animatrice socio-sportive"
+}
+,
+{
+"code_ogr" : 404963,
+"code_rome" : "G1213",
+"libelle" : "Charg� / Charg�e de d�veloppement d'activit�s sportives"
+}
+,
+{
+"code_ogr" : 404966,
+"code_rome" : "G1214",
+"libelle" : "Directeur sportif / Directrice sportive"
+}
+,
+{
+"code_ogr" : 404967,
+"code_rome" : "G1215",
+"libelle" : "Educateur sportif / Educatrice sportive Sant�"
+}
+,
+{
+"code_ogr" : 404970,
+"code_rome" : "G1216",
+"libelle" : "Moniteur / Monitrice de sport nature"
+}
+,
+{
+"code_ogr" : 404971,
+"code_rome" : "G1217",
+"libelle" : "Moniteur / Monitrice en salle de sport"
+}
+,
+{
+"code_ogr" : 404975,
+"code_rome" : "G1218",
+"libelle" : "Pr�parateur / Pr�paratrice physique"
+}
+,
+{
+"code_ogr" : 488277,
+"code_rome" : "G1219",
+"libelle" : "Recruteur sportif / Recruteuse sportive"
+}
+,
+{
+"code_ogr" : 488288,
+"code_rome" : "G1220",
+"libelle" : "Educateur sportif / Educatrice sportive sp�cialis�(e) en activit�s physiques et sportives adapt�es"
+}
+,
+{
+"code_ogr" : 488598,
+"code_rome" : "G1221",
+"libelle" : "Responsable des attractions"
+}
+,
+{
+"code_ogr" : 488606,
+"code_rome" : "G1222",
+"libelle" : "Guide-conf�rencier / Guide-conf�renci�re"
+}
+,
+{
+"code_ogr" : 489193,
+"code_rome" : "G1223",
+"libelle" : "Animateur / Animatrice en site de divertissement"
+}
+,
+{
+"code_ogr" : 488616,
+"code_rome" : "G1224",
+"libelle" : "Ma�tre-nageur sauveteur / Ma�tre-nageuse sauveteuse"
+}
+,
+{
+"code_ogr" : 488633,
+"code_rome" : "G1225",
+"libelle" : "Ouvreur / Ouvreuse de salle de spectacles"
+}
+,
+{
+"code_ogr" : 488733,
+"code_rome" : "G1226",
+"libelle" : "Chef / Cheffe de bassin"
+}
+,
+{
+"code_ogr" : 488752,
+"code_rome" : "G1227",
+"libelle" : "Guide-interpr�te"
+}
+,
+{
+"code_ogr" : 488779,
+"code_rome" : "G1228",
+"libelle" : "Guide de haute montagne"
+}
+,
+{
+"code_ogr" : 489165,
+"code_rome" : "G1229",
+"libelle" : "Guide-accompagnateur / Guide-accompagnatrice de p�che"
+}
+,
+{
+"code_ogr" : 488860,
+"code_rome" : "G1230",
+"libelle" : "Guide de tourisme �questre"
+}
+,
+{
+"code_ogr" : 489016,
+"code_rome" : "G1231",
+"libelle" : "Accompagnateur / Accompagnatrice en �cotourisme"
+}
+,
+{
+"code_ogr" : 489046,
+"code_rome" : "G1232",
+"libelle" : "Op�rateur / Op�ratrice de parcours acrobatique dans les arbres"
+}
+,
+{
+"code_ogr" : 489050,
+"code_rome" : "G1233",
+"libelle" : "Pr�parateur mental / Pr�paratrice mentale du sport"
+}
+,
+{
+"code_ogr" : 489070,
+"code_rome" : "G1234",
+"libelle" : "Musher guide de randonn�e en tra�neau"
+}
+]
+}
+,
+{
+"code_metier" : "G13",
+"libelle" : "Conception, commercialisation et vente de produits touristiques",
+"liste_metier" : [
+{
+"code_ogr" : 188,
+"code_rome" : "G1301",
+"libelle" : "Chef / Cheffe de produit touristique"
+}
+,
+{
+"code_ogr" : 189,
+"code_rome" : "G1302",
+"libelle" : "Yield manager"
+}
+,
+{
+"code_ogr" : 190,
+"code_rome" : "G1303",
+"libelle" : "Agent / Agente de voyages"
+}
+]
+}
+,
+{
+"code_metier" : "G14",
+"libelle" : "Gestion et direction",
+"liste_metier" : [
+{
+"code_ogr" : 191,
+"code_rome" : "G1401",
+"libelle" : "Adjoint / Adjointe de direction en h�tellerie-restauration"
+}
+,
+{
+"code_ogr" : 192,
+"code_rome" : "G1402",
+"libelle" : "Directeur / Directrice d'�tablissement en h�tellerie-restauration"
+}
+,
+{
+"code_ogr" : 193,
+"code_rome" : "G1403",
+"libelle" : "Directeur / Directrice de structure touristique"
+}
+,
+{
+"code_ogr" : 194,
+"code_rome" : "G1404",
+"libelle" : "Responsable d'�tablissement de restauration collective"
+}
+,
+{
+"code_ogr" : 404965,
+"code_rome" : "G1405",
+"libelle" : "Directeur / Directrice de structure sportive"
+}
+,
+{
+"code_ogr" : 488348,
+"code_rome" : "G1406",
+"libelle" : "Directeur / Directrice d'�quipement sportif"
+}
+,
+{
+"code_ogr" : 488600,
+"code_rome" : "G1407",
+"libelle" : "�conome en h�tellerie-restauration"
+}
+,
+{
+"code_ogr" : 488762,
+"code_rome" : "G1408",
+"libelle" : "Directeur / Directrice de structure d'h�bergement touristique"
+}
+,
+{
+"code_ogr" : 488899,
+"code_rome" : "G1409",
+"libelle" : "Manager en restauration rapide"
+}
+,
+{
+"code_ogr" : 489049,
+"code_rome" : "G1410",
+"libelle" : "Directeur / Directrice de la restauration"
+}
+,
+{
+"code_ogr" : 489171,
+"code_rome" : "G1411",
+"libelle" : "Directeur / Directrice d'h�tel"
+}
+,
+{
+"code_ogr" : 489204,
+"code_rome" : "G1412",
+"libelle" : "Directeur / Directrice de parc � th�me"
+}
+,
+{
+"code_ogr" : 489205,
+"code_rome" : "G1413",
+"libelle" : "Directeur / Directrice de restaurant"
+}
+,
+{
+"code_ogr" : 489568,
+"code_rome" : "G1414",
+"libelle" : "Directeur / Directrice d'exploitation de site de divertissement"
+}
+]
+}
+,
+{
+"code_metier" : "G15",
+"libelle" : "Personnel d'�tage en h�tellerie",
+"liste_metier" : [
+{
+"code_ogr" : 195,
+"code_rome" : "G1501",
+"libelle" : "Employ� / Employ�e d'�tage"
+}
+,
+{
+"code_ogr" : 196,
+"code_rome" : "G1502",
+"libelle" : "Employ� / Employ�e d'h�tel"
+}
+,
+{
+"code_ogr" : 197,
+"code_rome" : "G1503",
+"libelle" : "Gouvernant / Gouvernante d'h�tel"
+}
+]
+}
+,
+{
+"code_metier" : "G16",
+"libelle" : "Production culinaire",
+"liste_metier" : [
+{
+"code_ogr" : 198,
+"code_rome" : "G1601",
+"libelle" : "Chef / Cheffe de cuisine"
+}
+,
+{
+"code_ogr" : 199,
+"code_rome" : "G1602",
+"libelle" : "Commis / Commise de cuisine"
+}
+,
+{
+"code_ogr" : 200,
+"code_rome" : "G1603",
+"libelle" : "�quipier polyvalent / �quipi�re polyvalente de restauration rapide"
+}
+,
+{
+"code_ogr" : 201,
+"code_rome" : "G1604",
+"libelle" : "Pizza�olo / Pizza�ola"
+}
+,
+{
+"code_ogr" : 202,
+"code_rome" : "G1605",
+"libelle" : "Plongeur officier / Plongeuse offici�re de cuisine"
+}
+,
+{
+"code_ogr" : 404039,
+"code_rome" : "G1606",
+"libelle" : "Cuisinier / Cuisini�re de collectivit�"
+}
+,
+{
+"code_ogr" : 404040,
+"code_rome" : "G1607",
+"libelle" : "Employ� / Employ�e de restauration collective"
+}
+,
+{
+"code_ogr" : 404540,
+"code_rome" : "G1608",
+"libelle" : "Ecailler / Ecaill�re"
+}
+,
+{
+"code_ogr" : 488568,
+"code_rome" : "G1609",
+"libelle" : "Cuisinier / Cuisini�re"
+}
+,
+{
+"code_ogr" : 488580,
+"code_rome" : "G1610",
+"libelle" : "P�tissier / P�tissi�re de restaurant"
+}
+,
+{
+"code_ogr" : 489173,
+"code_rome" : "G1611",
+"libelle" : "Steward / H�tesse de train"
+}
+]
+}
+,
+{
+"code_metier" : "G17",
+"libelle" : "Accueil en h�tellerie",
+"liste_metier" : [
+{
+"code_ogr" : 203,
+"code_rome" : "G1701",
+"libelle" : "Concierge d'h�tel"
+}
+,
+{
+"code_ogr" : 204,
+"code_rome" : "G1702",
+"libelle" : "Bagagiste en �tablissement h�telier"
+}
+,
+{
+"code_ogr" : 205,
+"code_rome" : "G1703",
+"libelle" : "R�ceptionniste"
+}
+,
+{
+"code_ogr" : 488579,
+"code_rome" : "G1704",
+"libelle" : "Agent / Agente de r�servation en h�tellerie"
+}
+,
+{
+"code_ogr" : 488585,
+"code_rome" : "G1705",
+"libelle" : "Chef / Cheffe concierge d'h�tel"
+}
+,
+{
+"code_ogr" : 488620,
+"code_rome" : "G1706",
+"libelle" : "Chef / Cheffe de r�ception en h�tellerie"
+}
+,
+{
+"code_ogr" : 488891,
+"code_rome" : "G1707",
+"libelle" : "Responsable de vestiaire"
+}
+,
+{
+"code_ogr" : 489018,
+"code_rome" : "G1708",
+"libelle" : "Voiturier / Voituri�re"
+}
+]
+}
+,
+{
+"code_metier" : "G18",
+"libelle" : "Service",
+"liste_metier" : [
+{
+"code_ogr" : 206,
+"code_rome" : "G1801",
+"libelle" : "Barman / Barmaid"
+}
+,
+{
+"code_ogr" : 207,
+"code_rome" : "G1802",
+"libelle" : "Ma�tre / Ma�tresse d'h�tel"
+}
+,
+{
+"code_ogr" : 208,
+"code_rome" : "G1803",
+"libelle" : "Serveur / Serveuse en restauration"
+}
+,
+{
+"code_ogr" : 209,
+"code_rome" : "G1804",
+"libelle" : "Sommelier / Sommeli�re"
+}
+,
+{
+"code_ogr" : 489037,
+"code_rome" : "G1805",
+"libelle" : "G�rant / G�rante de caf�, bar-brasserie"
+}
+,
+{
+"code_ogr" : 488898,
+"code_rome" : "G1806",
+"libelle" : "Chef sommelier / Cheffe sommeli�re"
+}
+,
+{
+"code_ogr" : 488582,
+"code_rome" : "G1807",
+"libelle" : "G�rant / G�rante de bar-tabac"
+}
+,
+{
+"code_ogr" : 488635,
+"code_rome" : "G1808",
+"libelle" : "Chef barman / Cheffe barmaid"
+}
+,
+{
+"code_ogr" : 488718,
+"code_rome" : "G1809",
+"libelle" : "Barista"
+}
+,
+{
+"code_ogr" : 488861,
+"code_rome" : "G1810",
+"libelle" : "Chef / Cheffe de rang"
+}
+]
+}
+]
+}
+,
+{
+"code_metier" : "H",
+"libelle" : "Industrie",
+"liste_domaine_prof" : [
+{
+"code_metier" : "H11",
+"libelle" : "Affaires et support technique client",
+"liste_metier" : [
+{
+"code_ogr" : 210,
+"code_rome" : "H1101",
+"libelle" : "Ing�nieur / Ing�nieure support technique"
+}
+,
+{
+"code_ogr" : 211,
+"code_rome" : "H1102",
+"libelle" : "Ing�nieur / Ing�nieure d'affaires en industrie"
+}
+,
+{
+"code_ogr" : 488302,
+"code_rome" : "H1103",
+"libelle" : "Responsable d'affaires en industrie"
+}
+,
+{
+"code_ogr" : 488321,
+"code_rome" : "H1104",
+"libelle" : "Directeur / Directrice des affaires m�dicales pharmaceutiques"
+}
+,
+{
+"code_ogr" : 488339,
+"code_rome" : "H1105",
+"libelle" : "Chef de projets sant� / Cheffe de projets sant�"
+}
+,
+{
+"code_ogr" : 488627,
+"code_rome" : "H1106",
+"libelle" : "Responsable support technique clients"
+}
+,
+{
+"code_ogr" : 489015,
+"code_rome" : "H1107",
+"libelle" : "Directeur / Directrice assistance technique"
+}
+,
+{
+"code_ogr" : 489029,
+"code_rome" : "H1108",
+"libelle" : "Technicien / Technicienne support client en industrie"
+}
+]
+}
+,
+{
+"code_metier" : "H12",
+"libelle" : "Conception, recherche, �tudes et d�veloppement",
+"liste_metier" : [
+{
+"code_ogr" : 212,
+"code_rome" : "H1201",
+"libelle" : "Coloriste en industrie"
+}
+,
+{
+"code_ogr" : 213,
+"code_rome" : "H1202",
+"libelle" : "Dessinateur / Dessinatrice en �lectricit�-�lectronique"
+}
+,
+{
+"code_ogr" : 214,
+"code_rome" : "H1203",
+"libelle" : "Dessinateur-projeteur / Dessinatrice-projeteuse en m�canique"
+}
+,
+{
+"code_ogr" : 215,
+"code_rome" : "H1204",
+"libelle" : "Designer industriel / Designeuse industrielle"
+}
+,
+{
+"code_ogr" : 216,
+"code_rome" : "H1205",
+"libelle" : "Mod�liste en industrie"
+}
+,
+{
+"code_ogr" : 217,
+"code_rome" : "H1206",
+"libelle" : "Ing�nieur / Ing�nieure R&D en industrie"
+}
+,
+{
+"code_ogr" : 218,
+"code_rome" : "H1207",
+"libelle" : "R�dacteur / R�dactrice technique"
+}
+,
+{
+"code_ogr" : 219,
+"code_rome" : "H1208",
+"libelle" : "Automaticien / Automaticienne en bureau d'�tudes"
+}
+,
+{
+"code_ogr" : 220,
+"code_rome" : "H1209",
+"libelle" : "Technicien / Technicienne �tudes �lectroniques"
+}
+,
+{
+"code_ogr" : 221,
+"code_rome" : "H1210",
+"libelle" : "Technicien / Technicienne R&D"
+}
+,
+{
+"code_ogr" : 404541,
+"code_rome" : "H1211",
+"libelle" : "Attach� / Attach�e de recherche clinique (ARC)"
+}
+,
+{
+"code_ogr" : 488271,
+"code_rome" : "H1212",
+"libelle" : "Ing�nieur / Ing�nieure brevet en industrie"
+}
+,
+{
+"code_ogr" : 488291,
+"code_rome" : "H1213",
+"libelle" : "Responsable du d�veloppement clinique"
+}
+,
+{
+"code_ogr" : 488299,
+"code_rome" : "H1214",
+"libelle" : "Agent / Agente de laboratoire de recherche industrielle"
+}
+,
+{
+"code_ogr" : 488303,
+"code_rome" : "H1215",
+"libelle" : "Bioinformaticien / Bioinformaticienne en �tudes, recherche et d�veloppement"
+}
+,
+{
+"code_ogr" : 488308,
+"code_rome" : "H1216",
+"libelle" : "Responsable des �tudes �pid�miologiques"
+}
+,
+{
+"code_ogr" : 488313,
+"code_rome" : "H1217",
+"libelle" : "Technicien / Technicienne formulation"
+}
+,
+{
+"code_ogr" : 488316,
+"code_rome" : "H1218",
+"libelle" : "Responsable de projet recherche et d�veloppement"
+}
+,
+{
+"code_ogr" : 488319,
+"code_rome" : "H1219",
+"libelle" : "Responsable op�rationnel / Responsable op�rationnelle des �tudes cliniques"
+}
+,
+{
+"code_ogr" : 488322,
+"code_rome" : "H1220",
+"libelle" : "Responsable formulation"
+}
+,
+{
+"code_ogr" : 488335,
+"code_rome" : "H1221",
+"libelle" : "Responsable des partenariats de recherche"
+}
+,
+{
+"code_ogr" : 488347,
+"code_rome" : "H1222",
+"libelle" : "Responsable m�dical / Responsable m�dicale des �tudes cliniques"
+}
+,
+{
+"code_ogr" : 488351,
+"code_rome" : "H1223",
+"libelle" : "Coordinateur / Coordinatrice d'�tudes cliniques"
+}
+,
+{
+"code_ogr" : 488566,
+"code_rome" : "H1224",
+"libelle" : "Technicien / Technicienne de laboratoire de recherche-d�veloppement"
+}
+,
+{
+"code_ogr" : 489219,
+"code_rome" : "H1225",
+"libelle" : "Ing�nieur / Ing�nieure d�veloppement nucl�aire"
+}
+]
+}
+,
+{
+"code_metier" : "H13",
+"libelle" : "Hygi�ne S�curit� Environnement -HSE- industriels",
+"liste_metier" : [
+{
+"code_ogr" : 222,
+"code_rome" : "H1301",
+"libelle" : "Inspecteur / Inspectrice de conformit�"
+}
+,
+{
+"code_ogr" : 223,
+"code_rome" : "H1302",
+"libelle" : "Responsable Hygi�ne S�curit� Environnement (HSE) en industrie"
+}
+,
+{
+"code_ogr" : 224,
+"code_rome" : "H1303",
+"libelle" : "Technicien / Technicienne en Hygi�ne, S�curit�, Environnement industriel (HSE)"
+}
+,
+{
+"code_ogr" : 488285,
+"code_rome" : "H1304",
+"libelle" : "Responsable environnement-hygi�ne-s�curit� en industrie"
+}
+,
+{
+"code_ogr" : 488596,
+"code_rome" : "H1305",
+"libelle" : "V�rificateur / V�rificatrice de conformit� industrielle"
+}
+,
+{
+"code_ogr" : 488619,
+"code_rome" : "H1306",
+"libelle" : "Ing�nieur / Ing�nieure s�ret� en industrie nucl�aire"
+}
+,
+{
+"code_ogr" : 488751,
+"code_rome" : "H1307",
+"libelle" : "Responsable de la conformit� industrielle"
+}
+,
+{
+"code_ogr" : 489181,
+"code_rome" : "H1308",
+"libelle" : "Animateur / Animatrice en Hygi�ne S�curit� Environnement (HSE)"
+}
+,
+{
+"code_ogr" : 489183,
+"code_rome" : "H1309",
+"libelle" : "Technicien / Technicienne en radioprotection"
+}
+]
+}
+,
+{
+"code_metier" : "H14",
+"libelle" : "M�thodes et gestion industrielles",
+"liste_metier" : [
+{
+"code_ogr" : 225,
+"code_rome" : "H1401",
+"libelle" : "Responsable ordonnancement-lancement-planification en industrie"
+}
+,
+{
+"code_ogr" : 226,
+"code_rome" : "H1402",
+"libelle" : "Ing�nieur / Ing�nieure m�thodes et process"
+}
+,
+{
+"code_ogr" : 227,
+"code_rome" : "H1403",
+"libelle" : "Gestionnaire de flux de production"
+}
+,
+{
+"code_ogr" : 228,
+"code_rome" : "H1404",
+"libelle" : "Technicien / Technicienne m�thodes"
+}
+,
+{
+"code_ogr" : 488297,
+"code_rome" : "H1405",
+"libelle" : "Responsable supply chain en industrie"
+}
+,
+{
+"code_ogr" : 488331,
+"code_rome" : "H1406",
+"libelle" : "Ing�nieur / Ing�nieure supply chain en industrie"
+}
+]
+}
+,
+{
+"code_metier" : "H15",
+"libelle" : "Qualit� et analyses industrielles",
+"liste_metier" : [
+{
+"code_ogr" : 229,
+"code_rome" : "H1501",
+"libelle" : "Ing�nieur / Ing�nieure d'analyse industrielle"
+}
+,
+{
+"code_ogr" : 230,
+"code_rome" : "H1502",
+"libelle" : "Responsable qualit� en industrie"
+}
+,
+{
+"code_ogr" : 231,
+"code_rome" : "H1503",
+"libelle" : "Technicien / Technicienne de laboratoire en industrie"
+}
+,
+{
+"code_ogr" : 232,
+"code_rome" : "H1504",
+"libelle" : "Contr�leur / Contr�leuse technique en �lectricit�-�lectronique"
+}
+,
+{
+"code_ogr" : 233,
+"code_rome" : "H1505",
+"libelle" : "Nez"
+}
+,
+{
+"code_ogr" : 234,
+"code_rome" : "H1506",
+"libelle" : "Contr�leur / Contr�leuse technique en m�tallurgie"
+}
+,
+{
+"code_ogr" : 404542,
+"code_rome" : "H1507",
+"libelle" : "Charg� / Charg�e des affaires r�glementaires"
+}
+,
+{
+"code_ogr" : 488278,
+"code_rome" : "H1508",
+"libelle" : "Assureur / Assureuse qualit� industrie"
+}
+,
+{
+"code_ogr" : 488284,
+"code_rome" : "H1509",
+"libelle" : "Responsable des affaires r�glementaires"
+}
+,
+{
+"code_ogr" : 488296,
+"code_rome" : "H1510",
+"libelle" : "Technicien / Technicienne de laboratoire de contr�le"
+}
+,
+{
+"code_ogr" : 488309,
+"code_rome" : "H1511",
+"libelle" : "Charg� / Charg�e de validation-qualification"
+}
+,
+{
+"code_ogr" : 488312,
+"code_rome" : "H1512",
+"libelle" : "Directeur / Directrice de zone"
+}
+,
+{
+"code_ogr" : 488314,
+"code_rome" : "H1513",
+"libelle" : "Responsable de pharmacovigilance"
+}
+,
+{
+"code_ogr" : 488330,
+"code_rome" : "H1514",
+"libelle" : "Charg� / Charg�e de pharmacovigilance"
+}
+,
+{
+"code_ogr" : 488336,
+"code_rome" : "H1515",
+"libelle" : "Auditeur / Auditrice qualit� en industrie"
+}
+,
+{
+"code_ogr" : 488341,
+"code_rome" : "H1516",
+"libelle" : "Expert / Experte m�trologue"
+}
+,
+{
+"code_ogr" : 488343,
+"code_rome" : "H1517",
+"libelle" : "Responsable de laboratoire de contr�le en industrie pharmaceutique"
+}
+,
+{
+"code_ogr" : 488344,
+"code_rome" : "H1518",
+"libelle" : "Responsable assurance qualit� en industrie"
+}
+,
+{
+"code_ogr" : 488352,
+"code_rome" : "H1519",
+"libelle" : "Responsable �thique-d�ontologie-conformit�"
+}
+,
+{
+"code_ogr" : 488353,
+"code_rome" : "H1520",
+"libelle" : "Ing�nieur / Ing�nieure assurance qualit� en industrie"
+}
+,
+{
+"code_ogr" : 488565,
+"code_rome" : "H1521",
+"libelle" : "Technicien / Technicienne de validation-qualification"
+}
+,
+{
+"code_ogr" : 488632,
+"code_rome" : "H1522",
+"libelle" : "Technicien / Technicienne en contr�les et essais non destructifs (CND END)"
+}
+]
+}
+,
+{
+"code_metier" : "H21",
+"libelle" : "Alimentaire",
+"liste_metier" : [
+{
+"code_ogr" : 235,
+"code_rome" : "H2101",
+"libelle" : "Ouvrier / Ouvri�re d'abattoir"
+}
+,
+{
+"code_ogr" : 236,
+"code_rome" : "H2102",
+"libelle" : "Conducteur / Conductrice de ligne en industrie alimentaire"
+}
+,
+{
+"code_ogr" : 403959,
+"code_rome" : "H2103",
+"libelle" : "Op�rateur / Op�ratrice de transformation des viandes"
+}
+,
+{
+"code_ogr" : 488711,
+"code_rome" : "H2104",
+"libelle" : "Fromager industriel / Fromag�re industrielle"
+}
+]
+}
+,
+{
+"code_metier" : "H22",
+"libelle" : "Bois",
+"liste_metier" : [
+{
+"code_ogr" : 237,
+"code_rome" : "H2201",
+"libelle" : "Assembleur / Assembleuse d'ouvrages en bois"
+}
+,
+{
+"code_ogr" : 238,
+"code_rome" : "H2202",
+"libelle" : "Conducteur / Conductrice de machines � bois"
+}
+,
+{
+"code_ogr" : 239,
+"code_rome" : "H2203",
+"libelle" : "Machiniste en fabrications de panneaux de bois"
+}
+,
+{
+"code_ogr" : 240,
+"code_rome" : "H2204",
+"libelle" : "Contrema�tre / Contrema�tresse en menuiserie"
+}
+,
+{
+"code_ogr" : 241,
+"code_rome" : "H2205",
+"libelle" : "Ouvrier / Ouvri�re de scierie"
+}
+,
+{
+"code_ogr" : 242,
+"code_rome" : "H2206",
+"libelle" : "Menuisier / Menuisi�re"
+}
+,
+{
+"code_ogr" : 243,
+"code_rome" : "H2207",
+"libelle" : "�b�niste"
+}
+,
+{
+"code_ogr" : 244,
+"code_rome" : "H2208",
+"libelle" : "Sculpteur / Sculptrice sur bois"
+}
+,
+{
+"code_ogr" : 245,
+"code_rome" : "H2209",
+"libelle" : "Dessinateur / Dessinatrice de structures en bois"
+}
+,
+{
+"code_ogr" : 489038,
+"code_rome" : "H2210",
+"libelle" : "Tonnelier / Tonneli�re"
+}
+,
+{
+"code_ogr" : 488887,
+"code_rome" : "H2211",
+"libelle" : "Op�rateur / Op�ratrice de sciage bois"
+}
+]
+}
+,
+{
+"code_metier" : "H23",
+"libelle" : "Chimie et pharmacie",
+"liste_metier" : [
+{
+"code_ogr" : 246,
+"code_rome" : "H2301",
+"libelle" : "Conducteur / Conductrice de ligne en industrie chimique"
+}
+,
+{
+"code_ogr" : 488276,
+"code_rome" : "H2302",
+"libelle" : "Conducteur / Conductrice de proc�d� de fabrication"
+}
+,
+{
+"code_ogr" : 488318,
+"code_rome" : "H2303",
+"libelle" : "Op�rateur / Op�ratrice de fabrication en industrie pharmaceutique"
+}
+]
+}
+,
+{
+"code_metier" : "H24",
+"libelle" : "Cuir et textile",
+"liste_metier" : [
+{
+"code_ogr" : 247,
+"code_rome" : "H2401",
+"libelle" : "Op�rateur / Op�ratrice de fabrication industrie des cuirs, peaux et mat�riaux associ�s"
+}
+,
+{
+"code_ogr" : 248,
+"code_rome" : "H2402",
+"libelle" : "Couturier industriel / Couturi�re industrielle de l'habillement"
+}
+,
+{
+"code_ogr" : 249,
+"code_rome" : "H2403",
+"libelle" : "Conducteur / Conductrice de machines de fabrication de produits textiles"
+}
+,
+{
+"code_ogr" : 250,
+"code_rome" : "H2404",
+"libelle" : "Conducteur / Conductrice de machine de production et transformation des fils"
+}
+,
+{
+"code_ogr" : 251,
+"code_rome" : "H2405",
+"libelle" : "Conducteur / Conductrice de ligne de production de textiles non-tiss�s"
+}
+,
+{
+"code_ogr" : 252,
+"code_rome" : "H2406",
+"libelle" : "Conducteur / Conductrice de machines de traitement textile"
+}
+,
+{
+"code_ogr" : 253,
+"code_rome" : "H2407",
+"libelle" : "Op�rateur / Op�ratrice sur machine de transformation et de finition des cuirs et peaux"
+}
+,
+{
+"code_ogr" : 254,
+"code_rome" : "H2408",
+"libelle" : "Imprimeur / Imprimeuse textile"
+}
+,
+{
+"code_ogr" : 255,
+"code_rome" : "H2409",
+"libelle" : "Coupeur / Coupeuse en industrie textile et mat�riaux souples"
+}
+,
+{
+"code_ogr" : 256,
+"code_rome" : "H2410",
+"libelle" : "Op�rateur / Op�ratrice de finition en industrie du textile"
+}
+,
+{
+"code_ogr" : 257,
+"code_rome" : "H2411",
+"libelle" : "Monteur / Monteuse prototypiste cuir et mat�riaux souples"
+}
+,
+{
+"code_ogr" : 258,
+"code_rome" : "H2412",
+"libelle" : "Patronnier / Patronni�re"
+}
+,
+{
+"code_ogr" : 259,
+"code_rome" : "H2413",
+"libelle" : "Op�rateur / Op�ratrice de pr�paration en industrie textile"
+}
+,
+{
+"code_ogr" : 260,
+"code_rome" : "H2414",
+"libelle" : "Op�rateur / Op�ratrice de pr�paration ou de finition sur articles de cuirs, peaux ou mat�riaux associ�s"
+}
+,
+{
+"code_ogr" : 261,
+"code_rome" : "H2415",
+"libelle" : "Contr�leur / Contr�leuse en industrie textile"
+}
+,
+{
+"code_ogr" : 488630,
+"code_rome" : "H2416",
+"libelle" : "Gainier industriel / Gaini�re industrielle"
+}
+,
+{
+"code_ogr" : 488714,
+"code_rome" : "H2417",
+"libelle" : "Chef / Cheffe de rame textile"
+}
+,
+{
+"code_ogr" : 488720,
+"code_rome" : "H2418",
+"libelle" : "Op�rateur / Op�ratrice sur machine de production et transformation des fils"
+}
+,
+{
+"code_ogr" : 488740,
+"code_rome" : "H2419",
+"libelle" : "Passementier / Passementi�re en industrie textile"
+}
+,
+{
+"code_ogr" : 488760,
+"code_rome" : "H2420",
+"libelle" : "Repasseur / Repasseuse en industrie textile et de l'habillement"
+}
+,
+{
+"code_ogr" : 488761,
+"code_rome" : "H2421",
+"libelle" : "Op�rateur / Op�ratrice de fabrication de produits textiles"
+}
+,
+{
+"code_ogr" : 488780,
+"code_rome" : "H2422",
+"libelle" : "Tapissier industriel / Tapissi�re industrielle"
+}
+,
+{
+"code_ogr" : 488856,
+"code_rome" : "H2423",
+"libelle" : "M�canicien / M�canicienne industrie textile et de l'habillement"
+}
+,
+{
+"code_ogr" : 488875,
+"code_rome" : "H2424",
+"libelle" : "Chef(fe) de ligne chromo en industrie textile"
+}
+,
+{
+"code_ogr" : 488901,
+"code_rome" : "H2425",
+"libelle" : "Fileur / Fileuse en industrie textile"
+}
+,
+{
+"code_ogr" : 488932,
+"code_rome" : "H2426",
+"libelle" : "Chef(fe) d'�quipe en atelier de coupe"
+}
+,
+{
+"code_ogr" : 489060,
+"code_rome" : "H2427",
+"libelle" : "Effileur / Effileuse en dentelles"
+}
+]
+}
+,
+{
+"code_metier" : "H25",
+"libelle" : "Direction, encadrement et pilotage de fabrication et production industrielles",
+"liste_metier" : [
+{
+"code_ogr" : 262,
+"code_rome" : "H2501",
+"libelle" : "Chef / Cheffe d'atelier production �lectricit�-�lectronique"
+}
+,
+{
+"code_ogr" : 263,
+"code_rome" : "H2502",
+"libelle" : "Responsable d'unit� de production industrielle"
+}
+,
+{
+"code_ogr" : 264,
+"code_rome" : "H2503",
+"libelle" : "Responsable d'�lot de production"
+}
+,
+{
+"code_ogr" : 265,
+"code_rome" : "H2504",
+"libelle" : "Chef / Cheffe d'�quipe en industrie"
+}
+,
+{
+"code_ogr" : 266,
+"code_rome" : "H2505",
+"libelle" : "Chef / Cheffe d'�quipe et d'atelier textile"
+}
+,
+{
+"code_ogr" : 488286,
+"code_rome" : "H2506",
+"libelle" : "Chef / Cheffe de production en industrie agroalimentaire"
+}
+,
+{
+"code_ogr" : 488315,
+"code_rome" : "H2507",
+"libelle" : "Responsable de ligne de production industrielle"
+}
+,
+{
+"code_ogr" : 488862,
+"code_rome" : "H2508",
+"libelle" : "Ing�nieur / Ing�nieure exploitation nucl�aire"
+}
+]
+}
+,
+{
+"code_metier" : "H26",
+"libelle" : "Electronique et �lectricit�",
+"liste_metier" : [
+{
+"code_ogr" : 267,
+"code_rome" : "H2601",
+"libelle" : "Bobinier / Bobini�re en �lectricit�"
+}
+,
+{
+"code_ogr" : 268,
+"code_rome" : "H2602",
+"libelle" : "C�bleur / C�bleuse d'armoires"
+}
+,
+{
+"code_ogr" : 269,
+"code_rome" : "H2603",
+"libelle" : "Op�rateur / Op�ratrice sur machines automatis�es en production �lectrique"
+}
+,
+{
+"code_ogr" : 270,
+"code_rome" : "H2604",
+"libelle" : "Assembleur / Assembleuse en produits �lectriques et �lectroniques"
+}
+,
+{
+"code_ogr" : 271,
+"code_rome" : "H2605",
+"libelle" : "Monteur-c�bleur / Monteuse-c�bleuse en �lectronique"
+}
+,
+{
+"code_ogr" : 488763,
+"code_rome" : "H2606",
+"libelle" : "Monteur-bobinier / Monteuse-bobini�re en �lectricit�"
+}
+,
+{
+"code_ogr" : 488920,
+"code_rome" : "H2607",
+"libelle" : "Chef / Cheffe d'�quipe d'atelier de bobinage en �lectricit�"
+}
+,
+{
+"code_ogr" : 489222,
+"code_rome" : "H2608",
+"libelle" : "Bobinier / Bobini�re en mat�riels �lectroniques"
+}
+]
+}
+,
+{
+"code_metier" : "H27",
+"libelle" : "Energie",
+"liste_metier" : [
+{
+"code_ogr" : 272,
+"code_rome" : "H2701",
+"libelle" : "Technicien / Technicienne �nergie"
+}
+,
+{
+"code_ogr" : 488305,
+"code_rome" : "H2702",
+"libelle" : "Conducteur / Conductrice de bloc nucl�aire"
+}
+,
+{
+"code_ogr" : 488631,
+"code_rome" : "H2703",
+"libelle" : "Technicien / Technicienne de maintenance de batteries de v�hicules �lectriques"
+}
+,
+{
+"code_ogr" : 488775,
+"code_rome" : "H2704",
+"libelle" : "Technicien d�monteur / Technicienne d�monteuse de batteries de v�hicules �lectriques"
+}
+,
+{
+"code_ogr" : 489071,
+"code_rome" : "H2705",
+"libelle" : "Pilote de ligne de production de composants et de cellules pour batteries de v�hicules �lectriques"
+}
+]
+}
+,
+{
+"code_metier" : "H28",
+"libelle" : "Mat�riaux de construction, c�ramique et verre",
+"liste_metier" : [
+{
+"code_ogr" : 273,
+"code_rome" : "H2801",
+"libelle" : "Agent / Agente de fabrication du verre"
+}
+,
+{
+"code_ogr" : 274,
+"code_rome" : "H2802",
+"libelle" : "Op�rateur / Op�ratrice de fabrication en mat�riaux de construction"
+}
+,
+{
+"code_ogr" : 275,
+"code_rome" : "H2803",
+"libelle" : "Op�rateur / Op�ratrice de production en c�ramique"
+}
+,
+{
+"code_ogr" : 276,
+"code_rome" : "H2804",
+"libelle" : "Pilote de centrale de b�ton"
+}
+,
+{
+"code_ogr" : 277,
+"code_rome" : "H2805",
+"libelle" : "Technicien / Technicienne de l'industrie du verre"
+}
+]
+}
+,
+{
+"code_metier" : "H29",
+"libelle" : "M�canique, travail des m�taux et outillage",
+"liste_metier" : [
+{
+"code_ogr" : 278,
+"code_rome" : "H2901",
+"libelle" : "Ajusteur-monteur / Ajusteuse-monteuse"
+}
+,
+{
+"code_ogr" : 279,
+"code_rome" : "H2902",
+"libelle" : "Chaudronnier / Chaudronni�re"
+}
+,
+{
+"code_ogr" : 280,
+"code_rome" : "H2903",
+"libelle" : "Tourneur-fraiseur / Tourneuse-fraiseuse"
+}
+,
+{
+"code_ogr" : 281,
+"code_rome" : "H2904",
+"libelle" : "Forgeron industriel / Forgeronne industrielle"
+}
+,
+{
+"code_ogr" : 282,
+"code_rome" : "H2905",
+"libelle" : "Cisailleur / Cisailleuse en m�tallurgie"
+}
+,
+{
+"code_ogr" : 283,
+"code_rome" : "H2906",
+"libelle" : "Op�rateur / Op�ratrice en fabrication m�canique"
+}
+,
+{
+"code_ogr" : 284,
+"code_rome" : "H2907",
+"libelle" : "Fondeur / Fondeuse en m�tallurgie"
+}
+,
+{
+"code_ogr" : 285,
+"code_rome" : "H2908",
+"libelle" : "Modeleur / Modeleuse"
+}
+,
+{
+"code_ogr" : 286,
+"code_rome" : "H2909",
+"libelle" : "Assembleur monteur / Assembleuse monteuse"
+}
+,
+{
+"code_ogr" : 287,
+"code_rome" : "H2910",
+"libelle" : "Mouleur noyauteur / Mouleuse noyauteuse"
+}
+,
+{
+"code_ogr" : 288,
+"code_rome" : "H2911",
+"libelle" : "M�tallier / M�talli�re"
+}
+,
+{
+"code_ogr" : 289,
+"code_rome" : "H2912",
+"libelle" : "R�gleur / R�gleuse d'�quipements industriels"
+}
+,
+{
+"code_ogr" : 290,
+"code_rome" : "H2913",
+"libelle" : "Soudeur / Soudeuse"
+}
+,
+{
+"code_ogr" : 291,
+"code_rome" : "H2914",
+"libelle" : "Tuyauteur / Tuyauteuse"
+}
+,
+{
+"code_ogr" : 489024,
+"code_rome" : "H2915",
+"libelle" : "Chef soudeur / Cheffe soudeuse"
+}
+,
+{
+"code_ogr" : 489047,
+"code_rome" : "H2916",
+"libelle" : "Soudeur / Soudeuse Tungsten Inert Gas -TIG-"
+}
+,
+{
+"code_ogr" : 489194,
+"code_rome" : "H2917",
+"libelle" : "Soudeur / Soudeuse MIG MAG"
+}
+]
+}
+,
+{
+"code_metier" : "H31",
+"libelle" : "Papier et carton",
+"liste_metier" : [
+{
+"code_ogr" : 292,
+"code_rome" : "H3101",
+"libelle" : "Conducteur / Conductrice de machines � papier ou carton"
+}
+,
+{
+"code_ogr" : 293,
+"code_rome" : "H3102",
+"libelle" : "Conducteur / Conductrice d'installation de p�te � papier"
+}
+]
+}
+,
+{
+"code_metier" : "H32",
+"libelle" : "Plastique, caoutchouc",
+"liste_metier" : [
+{
+"code_ogr" : 294,
+"code_rome" : "H3201",
+"libelle" : "Plasturgiste"
+}
+,
+{
+"code_ogr" : 295,
+"code_rome" : "H3202",
+"libelle" : "Monteur r�gleur / Monteuse r�gleuse en plasturgie"
+}
+,
+{
+"code_ogr" : 296,
+"code_rome" : "H3203",
+"libelle" : "Mouleur-stratifieur / Mouleuse-stratifieuse"
+}
+]
+}
+,
+{
+"code_metier" : "H33",
+"libelle" : "Pr�paration et conditionnement",
+"liste_metier" : [
+{
+"code_ogr" : 297,
+"code_rome" : "H3301",
+"libelle" : "Conducteur / Conductrice de ligne de conditionnement"
+}
+,
+{
+"code_ogr" : 298,
+"code_rome" : "H3302",
+"libelle" : "Agent / Agente de conditionnement"
+}
+,
+{
+"code_ogr" : 299,
+"code_rome" : "H3303",
+"libelle" : "Cuisinier / Cuisini�re en industrie chimique"
+}
+,
+{
+"code_ogr" : 488913,
+"code_rome" : "H3304",
+"libelle" : "Chef / Cheffe de ligne conditionnement"
+}
+,
+{
+"code_ogr" : 489083,
+"code_rome" : "H3305",
+"libelle" : "Conducteur / Conductrice de machines de conditionnement"
+}
+]
+}
+,
+{
+"code_metier" : "H34",
+"libelle" : "Traitements thermiques et traitements de surfaces",
+"liste_metier" : [
+{
+"code_ogr" : 300,
+"code_rome" : "H3401",
+"libelle" : "Op�rateur / Op�ratrice de traitement d'abrasion de surface"
+}
+,
+{
+"code_ogr" : 301,
+"code_rome" : "H3402",
+"libelle" : "Agent / Agente de traitement de surface"
+}
+,
+{
+"code_ogr" : 302,
+"code_rome" : "H3403",
+"libelle" : "Op�rateur / Op�ratrice de traitement thermique"
+}
+,
+{
+"code_ogr" : 303,
+"code_rome" : "H3404",
+"libelle" : "Peintre industriel / Peintre industrielle"
+}
+,
+{
+"code_ogr" : 404973,
+"code_rome" : "H3405",
+"libelle" : "Polisseur / Polisseuse en bijouterie ou joaillerie ou orf�vrerie"
+}
+,
+{
+"code_ogr" : 404974,
+"code_rome" : "H3406",
+"libelle" : "Op�rateur / Op�ratrice en polissage de bijouterie ou d'orf�vrerie"
+}
+,
+{
+"code_ogr" : 490329,
+"code_rome" : "H3407",
+"libelle" : "Metteur au bain / Metteuse au bain argenture - dorure en orf�vrerie"
+}
+,
+{
+"code_ogr" : 490351,
+"code_rome" : "H3408",
+"libelle" : "Metteur au point polisseur / Metteuse au point polisseuse sur matrice en orf�vrerie"
+}
+]
+}
+]
+}
+,
+{
+"code_metier" : "I",
+"libelle" : "Installation et Maintenance",
+"liste_domaine_prof" : [
+{
+"code_metier" : "I11",
+"libelle" : "Encadrement",
+"liste_metier" : [
+{
+"code_ogr" : 304,
+"code_rome" : "I1101",
+"libelle" : "Directeur / Directrice des travaux b�timent"
+}
+,
+{
+"code_ogr" : 305,
+"code_rome" : "I1102",
+"libelle" : "Ing�nieur / Ing�nieure de maintenance industrielle"
+}
+,
+{
+"code_ogr" : 306,
+"code_rome" : "I1103",
+"libelle" : "Chef d'atelier automobile"
+}
+,
+{
+"code_ogr" : 488902,
+"code_rome" : "I1104",
+"libelle" : "Ing�nieur / Ing�nieure infrastructures t�l�coms r�seaux mobiles"
+}
+,
+{
+"code_ogr" : 488930,
+"code_rome" : "I1105",
+"libelle" : "Responsable de maintenance et d'exploitation"
+}
+,
+{
+"code_ogr" : 489085,
+"code_rome" : "I1106",
+"libelle" : "Responsable de maintenance r�seaux des territoires connect�s"
+}
+,
+{
+"code_ogr" : 488788,
+"code_rome" : "I1107",
+"libelle" : "Responsable d'atelier de m�canique parcs et jardins"
+}
+]
+}
+,
+{
+"code_metier" : "I12",
+"libelle" : "Entretien technique",
+"liste_metier" : [
+{
+"code_ogr" : 307,
+"code_rome" : "I1201",
+"libelle" : "Afficheur / Afficheuse"
+}
+,
+{
+"code_ogr" : 308,
+"code_rome" : "I1202",
+"libelle" : "Agent / Agente d'entretien de la voirie"
+}
+,
+{
+"code_ogr" : 309,
+"code_rome" : "I1203",
+"libelle" : "Agent / Agente d'entretien du b�timent"
+}
+,
+{
+"code_ogr" : 488571,
+"code_rome" : "I1204",
+"libelle" : "Agent / Agente d'entretien des piscines"
+}
+,
+{
+"code_ogr" : 488628,
+"code_rome" : "I1205",
+"libelle" : "Installateur v�rificateur / Installatrice v�rificatrice d'extincteurs"
+}
+]
+}
+,
+{
+"code_metier" : "I13",
+"libelle" : "Equipements de production, �quipements collectifs",
+"liste_metier" : [
+{
+"code_ogr" : 310,
+"code_rome" : "I1301",
+"libelle" : "Ascensoriste"
+}
+,
+{
+"code_ogr" : 311,
+"code_rome" : "I1302",
+"libelle" : "Technicien / Technicienne de maintenance d'installations automatis�es"
+}
+,
+{
+"code_ogr" : 312,
+"code_rome" : "I1303",
+"libelle" : "Technicien / Technicienne de maintenance de distributeurs automatiques"
+}
+,
+{
+"code_ogr" : 313,
+"code_rome" : "I1304",
+"libelle" : "Technicien / Technicienne de maintenance industrielle"
+}
+,
+{
+"code_ogr" : 314,
+"code_rome" : "I1305",
+"libelle" : "�lectronicien / �lectronicienne de maintenance"
+}
+,
+{
+"code_ogr" : 315,
+"code_rome" : "I1306",
+"libelle" : "Frigoriste"
+}
+,
+{
+"code_ogr" : 316,
+"code_rome" : "I1307",
+"libelle" : "Installateur / Installatrice fibre optique"
+}
+,
+{
+"code_ogr" : 317,
+"code_rome" : "I1308",
+"libelle" : "Technicien / Technicienne chauffagiste"
+}
+,
+{
+"code_ogr" : 318,
+"code_rome" : "I1309",
+"libelle" : "�lectricien / �lectricienne de maintenance"
+}
+,
+{
+"code_ogr" : 319,
+"code_rome" : "I1310",
+"libelle" : "M�canicien / M�canicienne de maintenance industrielle"
+}
+,
+{
+"code_ogr" : 488292,
+"code_rome" : "I1311",
+"libelle" : "Technicien / Technicienne installation r�seaux c�bl�s fibre optique"
+}
+,
+{
+"code_ogr" : 488332,
+"code_rome" : "I1312",
+"libelle" : "Technicien / Technicienne r�seaux mobiles"
+}
+,
+{
+"code_ogr" : 488605,
+"code_rome" : "I1313",
+"libelle" : "Hydraulicien industriel / Hydraulicienne industrielle"
+}
+,
+{
+"code_ogr" : 488747,
+"code_rome" : "I1314",
+"libelle" : "Monteur installateur / Monteuse installatrice d'�quipements connect�s"
+}
+,
+{
+"code_ogr" : 488869,
+"code_rome" : "I1315",
+"libelle" : "Monteur raccordeur / Monteuse raccordeuse fibre optique"
+}
+,
+{
+"code_ogr" : 488883,
+"code_rome" : "I1316",
+"libelle" : "Technicien / Technicienne de maintenance Chauffage, Ventilation et Climatisation - CVC"
+}
+,
+{
+"code_ogr" : 488900,
+"code_rome" : "I1317",
+"libelle" : "Technicien / Technicienne de maintenance fibre optique"
+}
+,
+{
+"code_ogr" : 488911,
+"code_rome" : "I1318",
+"libelle" : "Instrumentiste Industriel / Industrielle"
+}
+,
+{
+"code_ogr" : 489191,
+"code_rome" : "I1319",
+"libelle" : "Technicien / Technicienne de maintenance r�seaux mobiles"
+}
+,
+{
+"code_ogr" : 489206,
+"code_rome" : "I1320",
+"libelle" : "Technicien / Technicienne de maintenance d'�quipements connect�s"
+}
+]
+}
+,
+{
+"code_metier" : "I14",
+"libelle" : "Equipements domestiques et informatique",
+"liste_metier" : [
+{
+"code_ogr" : 320,
+"code_rome" : "I1401",
+"libelle" : "Technicien / Technicienne de maintenance en informatique"
+}
+,
+{
+"code_ogr" : 321,
+"code_rome" : "I1402",
+"libelle" : "Technicien / Technicienne SAV"
+}
+,
+{
+"code_ogr" : 488349,
+"code_rome" : "I1403",
+"libelle" : "Technicien / Technicienne Datacenter"
+}
+,
+{
+"code_ogr" : 489033,
+"code_rome" : "I1404",
+"libelle" : "Conseiller / Conseill�re support technique informatique"
+}
+,
+{
+"code_ogr" : 489195,
+"code_rome" : "I1405",
+"libelle" : "Administrateur / Administratrice bureautique"
+}
+]
+}
+,
+{
+"code_metier" : "I15",
+"libelle" : "Travaux d'acc�s difficile",
+"liste_metier" : [
+{
+"code_ogr" : 322,
+"code_rome" : "I1501",
+"libelle" : "Cordiste"
+}
+,
+{
+"code_ogr" : 323,
+"code_rome" : "I1502",
+"libelle" : "Scaphandrier / Scaphandri�re"
+}
+,
+{
+"code_ogr" : 324,
+"code_rome" : "I1503",
+"libelle" : "Technicien / Technicienne en risques technologiques"
+}
+,
+{
+"code_ogr" : 488273,
+"code_rome" : "I1504",
+"libelle" : "D�contaminateur / D�contamineuse nucl�aire et radiologique"
+}
+,
+{
+"code_ogr" : 488281,
+"code_rome" : "I1505",
+"libelle" : "Technicien / Technicienne d�chet nucl�aire"
+}
+,
+{
+"code_ogr" : 488770,
+"code_rome" : "I1506",
+"libelle" : "Chef / Cheffe d'�quipe cordiste"
+}
+,
+{
+"code_ogr" : 489013,
+"code_rome" : "I1507",
+"libelle" : "Op�rateur / Op�ratrice d�mant�lement nucl�aire"
+}
+]
+}
+,
+{
+"code_metier" : "I16",
+"libelle" : "V�hicules, engins, a�ronefs",
+"liste_metier" : [
+{
+"code_ogr" : 325,
+"code_rome" : "I1601",
+"libelle" : "Pr�parateur / Pr�paratrice de bateau"
+}
+,
+{
+"code_ogr" : 326,
+"code_rome" : "I1602",
+"libelle" : "M�canicien / M�canicienne a�ronautique"
+}
+,
+{
+"code_ogr" : 327,
+"code_rome" : "I1603",
+"libelle" : "M�canicien-r�parateur / M�canicienne-r�paratrice en mat�riels agricoles"
+}
+,
+{
+"code_ogr" : 328,
+"code_rome" : "I1604",
+"libelle" : "M�canicien / M�canicienne automobile"
+}
+,
+{
+"code_ogr" : 329,
+"code_rome" : "I1605",
+"libelle" : "M�canicien / M�canicienne en m�canique marine/navale"
+}
+,
+{
+"code_ogr" : 330,
+"code_rome" : "I1606",
+"libelle" : "Carrossier-peintre / Carrossi�re-peintre"
+}
+,
+{
+"code_ogr" : 331,
+"code_rome" : "I1607",
+"libelle" : "M�canicien / M�canicienne motocycles"
+}
+,
+{
+"code_ogr" : 488607,
+"code_rome" : "I1608",
+"libelle" : "D�monteur / D�monteuse de v�hicules hors d'usage"
+}
+,
+{
+"code_ogr" : 489208,
+"code_rome" : "I1609",
+"libelle" : "Peintre automobile"
+}
+,
+{
+"code_ogr" : 488613,
+"code_rome" : "I1610",
+"libelle" : "Responsable atelier carrosserie"
+}
+,
+{
+"code_ogr" : 489079,
+"code_rome" : "I1611",
+"libelle" : "Pr�parateur / Pr�paratrice de v�hicules automobiles"
+}
+,
+{
+"code_ogr" : 489045,
+"code_rome" : "I1612",
+"libelle" : "Technicien expert / Technicienne experte apr�s-vente automobile"
+}
+,
+{
+"code_ogr" : 488731,
+"code_rome" : "I1613",
+"libelle" : "M�canicien / M�canicienne des v�hicules des transports routiers"
+}
+,
+{
+"code_ogr" : 488736,
+"code_rome" : "I1614",
+"libelle" : "Pr�parateur / Pr�paratrice en peinture automobile"
+}
+,
+{
+"code_ogr" : 488742,
+"code_rome" : "I1615",
+"libelle" : "D�panneur-remorqueur / D�panneuse-remorqueuse de v�hicules"
+}
+,
+{
+"code_ogr" : 489022,
+"code_rome" : "I1616",
+"libelle" : "M�canicien / M�canicienne d'engins de chantier et de travaux publics"
+}
+,
+{
+"code_ogr" : 488791,
+"code_rome" : "I1617",
+"libelle" : "Contr�leur / Contr�leuse technique de v�hicules"
+}
+,
+{
+"code_ogr" : 488866,
+"code_rome" : "I1618",
+"libelle" : "M�canicien / M�canicienne en mat�riels motoris�s de parcs et jardins"
+}
+,
+{
+"code_ogr" : 488870,
+"code_rome" : "I1619",
+"libelle" : "M�canicien / M�canicienne cycles"
+}
+,
+{
+"code_ogr" : 488889,
+"code_rome" : "I1620",
+"libelle" : "M�canicien-r�parateur / M�canicienne-r�paratrice d'engins de levage et de manutention"
+}
+]
+}
+]
+}
+,
+{
+"code_metier" : "J",
+"libelle" : "Sant�",
+"liste_domaine_prof" : [
+{
+"code_metier" : "J11",
+"libelle" : "Praticiens m�dicaux",
+"liste_metier" : [
+{
+"code_ogr" : 332,
+"code_rome" : "J1101",
+"libelle" : "M�decin du travail et de pr�vention"
+}
+,
+{
+"code_ogr" : 333,
+"code_rome" : "J1102",
+"libelle" : "M�decin g�n�raliste"
+}
+,
+{
+"code_ogr" : 334,
+"code_rome" : "J1103",
+"libelle" : "Dentiste"
+}
+,
+{
+"code_ogr" : 335,
+"code_rome" : "J1104",
+"libelle" : "Homme sage-femme / Sage-femme"
+}
+,
+{
+"code_ogr" : 404041,
+"code_rome" : "J1105",
+"libelle" : "M�decin coordonnateur"
+}
+,
+{
+"code_ogr" : 488298,
+"code_rome" : "J1106",
+"libelle" : "Responsable m�dical / Responsable m�dicale en r�gion (RMR-MSL)"
+}
+,
+{
+"code_ogr" : 488726,
+"code_rome" : "J1107",
+"libelle" : "M�decin scolaire"
+}
+,
+{
+"code_ogr" : 488764,
+"code_rome" : "J1108",
+"libelle" : "M�decin r�gulateur"
+}
+,
+{
+"code_ogr" : 488880,
+"code_rome" : "J1109",
+"libelle" : "M�decin de la Protection Maternelle et Infantile -PMI-"
+}
+,
+{
+"code_ogr" : 488916,
+"code_rome" : "J1110",
+"libelle" : "M�decin l�giste"
+}
+,
+{
+"code_ogr" : 489214,
+"code_rome" : "J1111",
+"libelle" : "Gyn�cologue"
+}
+]
+}
+,
+{
+"code_metier" : "J12",
+"libelle" : "Praticiens m�dico-techniques",
+"liste_metier" : [
+{
+"code_ogr" : 336,
+"code_rome" : "J1201",
+"libelle" : "Biologiste m�dical / Biologiste m�dicale"
+}
+,
+{
+"code_ogr" : 337,
+"code_rome" : "J1202",
+"libelle" : "Pharmacien / Pharmacienne"
+}
+,
+{
+"code_ogr" : 488594,
+"code_rome" : "J1203",
+"libelle" : "Directeur / Directrice de laboratoire d'analyses v�t�rinaires"
+}
+,
+{
+"code_ogr" : 488743,
+"code_rome" : "J1204",
+"libelle" : "Directeur / Directrice de laboratoire d'analyses de biologie m�dicale"
+}
+]
+}
+,
+{
+"code_metier" : "J13",
+"libelle" : "Professionnels m�dico-techniques",
+"liste_metier" : [
+{
+"code_ogr" : 338,
+"code_rome" : "J1301",
+"libelle" : "Agent / Agente de service hospitalier (ASH)"
+}
+,
+{
+"code_ogr" : 339,
+"code_rome" : "J1302",
+"libelle" : "Technicien / Technicienne de laboratoires d'analyses m�dicales"
+}
+,
+{
+"code_ogr" : 340,
+"code_rome" : "J1303",
+"libelle" : "Assistant m�dical / Assistante m�dicale"
+}
+,
+{
+"code_ogr" : 341,
+"code_rome" : "J1304",
+"libelle" : "Auxiliaire de pu�riculture"
+}
+,
+{
+"code_ogr" : 342,
+"code_rome" : "J1305",
+"libelle" : "Ambulancier / Ambulanci�re"
+}
+,
+{
+"code_ogr" : 343,
+"code_rome" : "J1306",
+"libelle" : "Manipulateur / Manipulatrice en radiologie"
+}
+,
+{
+"code_ogr" : 344,
+"code_rome" : "J1307",
+"libelle" : "Pr�parateur / Pr�paratrice en pharmacie"
+}
+,
+{
+"code_ogr" : 404042,
+"code_rome" : "J1308",
+"libelle" : "Brancardier / Brancardi�re"
+}
+,
+{
+"code_ogr" : 404043,
+"code_rome" : "J1309",
+"libelle" : "Agent / Agente de st�rilisation de service hospitalier"
+}
+]
+}
+,
+{
+"code_metier" : "J14",
+"libelle" : "R��ducation et appareillage",
+"liste_metier" : [
+{
+"code_ogr" : 345,
+"code_rome" : "J1401",
+"libelle" : "Audioproth�siste"
+}
+,
+{
+"code_ogr" : 346,
+"code_rome" : "J1402",
+"libelle" : "Di�t�ticien / Di�t�ticienne"
+}
+,
+{
+"code_ogr" : 347,
+"code_rome" : "J1403",
+"libelle" : "Ergoth�rapeute"
+}
+,
+{
+"code_ogr" : 348,
+"code_rome" : "J1404",
+"libelle" : "Kin�sith�rapeute"
+}
+,
+{
+"code_ogr" : 349,
+"code_rome" : "J1405",
+"libelle" : "Opticien / Opticienne"
+}
+,
+{
+"code_ogr" : 350,
+"code_rome" : "J1406",
+"libelle" : "Orthophoniste"
+}
+,
+{
+"code_ogr" : 351,
+"code_rome" : "J1407",
+"libelle" : "Orthoptiste"
+}
+,
+{
+"code_ogr" : 352,
+"code_rome" : "J1408",
+"libelle" : "Ost�opathe"
+}
+,
+{
+"code_ogr" : 353,
+"code_rome" : "J1409",
+"libelle" : "Podologue"
+}
+,
+{
+"code_ogr" : 354,
+"code_rome" : "J1410",
+"libelle" : "Proth�siste dentaire"
+}
+,
+{
+"code_ogr" : 355,
+"code_rome" : "J1411",
+"libelle" : "Orthoproth�siste"
+}
+,
+{
+"code_ogr" : 356,
+"code_rome" : "J1412",
+"libelle" : "Psychomotricien / Psychomotricienne"
+}
+,
+{
+"code_ogr" : 488767,
+"code_rome" : "J1413",
+"libelle" : "Physioth�rapeute"
+}
+]
+}
+,
+{
+"code_metier" : "J15",
+"libelle" : "Soins param�dicaux",
+"liste_metier" : [
+{
+"code_ogr" : 357,
+"code_rome" : "J1501",
+"libelle" : "Aide-soignant / Aide-soignante"
+}
+,
+{
+"code_ogr" : 358,
+"code_rome" : "J1502",
+"libelle" : "Cadre de sant� d'unit� de soins ou de service param�dical"
+}
+,
+{
+"code_ogr" : 359,
+"code_rome" : "J1503",
+"libelle" : "Infirmier / Infirmi�re anesth�siste (IADE)"
+}
+,
+{
+"code_ogr" : 360,
+"code_rome" : "J1504",
+"libelle" : "Infirmier / Infirmi�re de bloc op�ratoire (IBODE)"
+}
+,
+{
+"code_ogr" : 361,
+"code_rome" : "J1505",
+"libelle" : "Infirmier / Infirmi�re de pr�vention"
+}
+,
+{
+"code_ogr" : 362,
+"code_rome" : "J1506",
+"libelle" : "Infirmier / Infirmi�re en soins g�n�raux (IDE)"
+}
+,
+{
+"code_ogr" : 363,
+"code_rome" : "J1507",
+"libelle" : "Infirmier / Infirmi�re en pu�riculture"
+}
+,
+{
+"code_ogr" : 488289,
+"code_rome" : "J1508",
+"libelle" : "Infirmier / Infirmi�re en Pratique Avanc�e (IPA)"
+}
+,
+{
+"code_ogr" : 488350,
+"code_rome" : "J1509",
+"libelle" : "Responsable de secteur coordinateur / Responsable de secteur coordinatrice"
+}
+,
+{
+"code_ogr" : 488567,
+"code_rome" : "J1510",
+"libelle" : "Infirmier coordinateur / Infirmi�re coordinatrice (IDEC)"
+}
+,
+{
+"code_ogr" : 488872,
+"code_rome" : "J1511",
+"libelle" : "Infirmier / Infirmi�re scolaire"
+}
+,
+{
+"code_ogr" : 489197,
+"code_rome" : "J1512",
+"libelle" : "Infirmier / Infirmi�re de sant� au travail"
+}
+]
+}
+]
+}
+,
+{
+"code_metier" : "K",
+"libelle" : "Services � la personne et � la collectivit�",
+"liste_domaine_prof" : [
+{
+"code_metier" : "K11",
+"libelle" : "Accompagnement de la personne",
+"liste_metier" : [
+{
+"code_ogr" : 364,
+"code_rome" : "K1101",
+"libelle" : "M�diateur familial / M�diatrice familiale"
+}
+,
+{
+"code_ogr" : 365,
+"code_rome" : "K1102",
+"libelle" : "Mandataire judiciaire � la protection des majeurs"
+}
+,
+{
+"code_ogr" : 366,
+"code_rome" : "K1103",
+"libelle" : "Coach en d�veloppement personnel"
+}
+,
+{
+"code_ogr" : 367,
+"code_rome" : "K1104",
+"libelle" : "Psychologue"
+}
+,
+{
+"code_ogr" : 489075,
+"code_rome" : "K1105",
+"libelle" : "Art th�rapeute"
+}
+]
+}
+,
+{
+"code_metier" : "K12",
+"libelle" : "Action sociale, socio-�ducative et socio-culturelle",
+"liste_metier" : [
+{
+"code_ogr" : 368,
+"code_rome" : "K1201",
+"libelle" : "Assistant social / Assistante sociale"
+}
+,
+{
+"code_ogr" : 369,
+"code_rome" : "K1202",
+"libelle" : "�ducateur / �ducatrice de jeunes enfants"
+}
+,
+{
+"code_ogr" : 370,
+"code_rome" : "K1203",
+"libelle" : "�ducateur technique sp�cialis� / �ducatrice technique sp�cialis�e"
+}
+,
+{
+"code_ogr" : 371,
+"code_rome" : "K1204",
+"libelle" : "M�diateur social / M�diatrice sociale"
+}
+,
+{
+"code_ogr" : 372,
+"code_rome" : "K1205",
+"libelle" : "Agent / Agente d'accueil social"
+}
+,
+{
+"code_ogr" : 373,
+"code_rome" : "K1206",
+"libelle" : "Animateur socioculturel / Animatrice socioculturelle"
+}
+,
+{
+"code_ogr" : 374,
+"code_rome" : "K1207",
+"libelle" : "�ducateur sp�cialis� / �ducatrice sp�cialis�e"
+}
+,
+{
+"code_ogr" : 488325,
+"code_rome" : "K1208",
+"libelle" : "Moniteur �ducateur / Monitrice �ducatrice"
+}
+,
+{
+"code_ogr" : 488587,
+"code_rome" : "K1209",
+"libelle" : "Coordonnateur / Coordonnatrice de projet socio�ducatif"
+}
+,
+{
+"code_ogr" : 488783,
+"code_rome" : "K1210",
+"libelle" : "�ducateur / �ducatrice de la protection judiciaire de la jeunesse"
+}
+,
+{
+"code_ogr" : 489059,
+"code_rome" : "K1211",
+"libelle" : "Conseiller / Conseill�re d'Insertion et de Probation -CIP-"
+}
+,
+{
+"code_ogr" : 489963,
+"code_rome" : "K1212",
+"libelle" : "Ministre du culte"
+}
+]
+}
+,
+{
+"code_metier" : "K13",
+"libelle" : "Aide � la vie quotidienne",
+"liste_metier" : [
+{
+"code_ogr" : 375,
+"code_rome" : "K1301",
+"libelle" : "Accompagnateur m�dicosocial / Accompagnatrice m�dicosociale"
+}
+,
+{
+"code_ogr" : 376,
+"code_rome" : "K1302",
+"libelle" : "Assistant / Assistante de vie d�pendance"
+}
+,
+{
+"code_ogr" : 377,
+"code_rome" : "K1303",
+"libelle" : "Garde d'enfant � domicile"
+}
+,
+{
+"code_ogr" : 378,
+"code_rome" : "K1304",
+"libelle" : "Employ� familial / Employ�e familiale de maison"
+}
+,
+{
+"code_ogr" : 28964,
+"code_rome" : "K1305",
+"libelle" : "Technicien / Technicienne Intervention Sociale et Familiale (TISF)"
+}
+,
+{
+"code_ogr" : 404044,
+"code_rome" : "K1306",
+"libelle" : "Auxiliaire de Vie Sociale (AVS)"
+}
+,
+{
+"code_ogr" : 404045,
+"code_rome" : "K1307",
+"libelle" : "Animateur / Animatrice petite enfance"
+}
+,
+{
+"code_ogr" : 404046,
+"code_rome" : "K1308",
+"libelle" : "Agent territorial sp�cialis� / Agente territoriale sp�cialis�e des �coles maternelles (ATSEM)"
+}
+,
+{
+"code_ogr" : 404543,
+"code_rome" : "K1309",
+"libelle" : "Accueillant familial / Accueillante familiale aupr�s d'enfants"
+}
+,
+{
+"code_ogr" : 404544,
+"code_rome" : "K1310",
+"libelle" : "Assistant maternel agr�� / Assistante maternelle agr��e"
+}
+,
+{
+"code_ogr" : 488323,
+"code_rome" : "K1311",
+"libelle" : "Assistant / Assistante de vie aux familles"
+}
+,
+{
+"code_ogr" : 488338,
+"code_rome" : "K1312",
+"libelle" : "Accueillant familial / Accueillante familiale th�rapeutique aupr�s d'adultes"
+}
+,
+{
+"code_ogr" : 489223,
+"code_rome" : "K1313",
+"libelle" : "Employ� / Employ�e au pair"
+}
+]
+}
+,
+{
+"code_metier" : "K14",
+"libelle" : "Conception et mise en oeuvre des politiques publiques",
+"liste_metier" : [
+{
+"code_ogr" : 379,
+"code_rome" : "K1401",
+"libelle" : "Cadre Dirigeant / Dirigeante d'administration centrale"
+}
+,
+{
+"code_ogr" : 380,
+"code_rome" : "K1402",
+"libelle" : "M�decin conseil"
+}
+,
+{
+"code_ogr" : 381,
+"code_rome" : "K1403",
+"libelle" : "Directeur / Directrice de structure de sant�, sociale ou p�nitentiaire"
+}
+,
+{
+"code_ogr" : 382,
+"code_rome" : "K1404",
+"libelle" : "Charg� / Charg�e de mission d�veloppement territorial"
+}
+,
+{
+"code_ogr" : 383,
+"code_rome" : "K1405",
+"libelle" : "Pr�fet / Pr�f�te"
+}
+,
+{
+"code_ogr" : 404545,
+"code_rome" : "K1406",
+"libelle" : "Secr�taire de mairie"
+}
+,
+{
+"code_ogr" : 488293,
+"code_rome" : "K1407",
+"libelle" : "Directeur / Directrice d'�tablissement m�dicosocial"
+}
+,
+{
+"code_ogr" : 488294,
+"code_rome" : "K1408",
+"libelle" : "Responsable de secteur d'aide � domicile"
+}
+,
+{
+"code_ogr" : 488311,
+"code_rome" : "K1409",
+"libelle" : "Responsable de structure sanitaire et sociale"
+}
+,
+{
+"code_ogr" : 489074,
+"code_rome" : "K1410",
+"libelle" : "Directeur r�gional / Directrice r�gionale des services p�nitentiaires"
+}
+]
+}
+,
+{
+"code_metier" : "K15",
+"libelle" : "Contr�le public",
+"liste_metier" : [
+{
+"code_ogr" : 384,
+"code_rome" : "K1501",
+"libelle" : "Agent / Agente de constatation des douanes"
+}
+,
+{
+"code_ogr" : 385,
+"code_rome" : "K1502",
+"libelle" : "Inspecteur / Inspectrice du travail"
+}
+,
+{
+"code_ogr" : 386,
+"code_rome" : "K1503",
+"libelle" : "Contr�leur / Contr�leuse des imp�ts"
+}
+,
+{
+"code_ogr" : 387,
+"code_rome" : "K1504",
+"libelle" : "R�gisseur / R�gisseuse de recettes"
+}
+,
+{
+"code_ogr" : 388,
+"code_rome" : "K1505",
+"libelle" : "Inspecteur / Inspectrice des douanes"
+}
+]
+}
+,
+{
+"code_metier" : "K16",
+"libelle" : "Culture et gestion documentaire",
+"liste_metier" : [
+{
+"code_ogr" : 389,
+"code_rome" : "K1601",
+"libelle" : "Documentaliste"
+}
+,
+{
+"code_ogr" : 390,
+"code_rome" : "K1602",
+"libelle" : "Conservateur / Conservatrice du patrimoine"
+}
+,
+{
+"code_ogr" : 488327,
+"code_rome" : "K1603",
+"libelle" : "Biblioth�caire"
+}
+,
+{
+"code_ogr" : 488610,
+"code_rome" : "K1604",
+"libelle" : "Directeur / Directrice d'�tablissement culturel"
+}
+,
+{
+"code_ogr" : 488727,
+"code_rome" : "K1605",
+"libelle" : "Commissaire d'exposition"
+}
+,
+{
+"code_ogr" : 488758,
+"code_rome" : "K1606",
+"libelle" : "Responsable de la conservation pr�ventive"
+}
+,
+{
+"code_ogr" : 489080,
+"code_rome" : "K1607",
+"libelle" : "Conservateur / Conservatrice des antiquit�s et objets d'art"
+}
+]
+}
+,
+{
+"code_metier" : "K17",
+"libelle" : "D�fense, s�curit� publique et secours",
+"liste_metier" : [
+{
+"code_ogr" : 391,
+"code_rome" : "K1701",
+"libelle" : "Militaire du rang Combattant / Combattante"
+}
+,
+{
+"code_ogr" : 392,
+"code_rome" : "K1702",
+"libelle" : "Responsable de s�curit� civile et de secours"
+}
+,
+{
+"code_ogr" : 393,
+"code_rome" : "K1703",
+"libelle" : "Responsable Op�rationnel / Op�rationnelle de la d�fense"
+}
+,
+{
+"code_ogr" : 394,
+"code_rome" : "K1704",
+"libelle" : "Officier / Offici�re de police"
+}
+,
+{
+"code_ogr" : 395,
+"code_rome" : "K1705",
+"libelle" : "Secouriste"
+}
+,
+{
+"code_ogr" : 396,
+"code_rome" : "K1706",
+"libelle" : "Agent / Agente de la force publique"
+}
+,
+{
+"code_ogr" : 397,
+"code_rome" : "K1707",
+"libelle" : "Policier municipal / Polici�re municipale"
+}
+,
+{
+"code_ogr" : 488295,
+"code_rome" : "K1708",
+"libelle" : "Gardien / Gardienne de la paix"
+}
+,
+{
+"code_ogr" : 488320,
+"code_rome" : "K1709",
+"libelle" : "Commissaire de police"
+}
+,
+{
+"code_ogr" : 488345,
+"code_rome" : "K1710",
+"libelle" : "Officier de police judiciaire / Offici�re de police judiciaire"
+}
+,
+{
+"code_ogr" : 488593,
+"code_rome" : "K1711",
+"libelle" : "Surveillant p�nitentiaire / Surveillante p�nitentiaire"
+}
+,
+{
+"code_ogr" : 488708,
+"code_rome" : "K1712",
+"libelle" : "Conducteur / Conductrice de v�hicule de combat"
+}
+,
+{
+"code_ogr" : 488712,
+"code_rome" : "K1713",
+"libelle" : "Tireur / Tireuse d'engin blind�"
+}
+,
+{
+"code_ogr" : 488892,
+"code_rome" : "K1714",
+"libelle" : "Missilier / Missili�re artillerie"
+}
+,
+{
+"code_ogr" : 488906,
+"code_rome" : "K1715",
+"libelle" : "Officier / Offici�re des forces arm�es"
+}
+,
+{
+"code_ogr" : 488907,
+"code_rome" : "K1716",
+"libelle" : "Chef / Cheffe de service p�nitentiaire"
+}
+,
+{
+"code_ogr" : 489034,
+"code_rome" : "K1717",
+"libelle" : "Technicien �lectronicien / Technicienne �lectronicienne des arm�es"
+}
+,
+{
+"code_ogr" : 489053,
+"code_rome" : "K1718",
+"libelle" : "M�canicien / M�canicienne de syst�mes d'armes"
+}
+,
+{
+"code_ogr" : 489167,
+"code_rome" : "K1719",
+"libelle" : "Chef / Cheffe de police municipale"
+}
+,
+{
+"code_ogr" : 489186,
+"code_rome" : "K1720",
+"libelle" : "Gardien / Gardienne de compagnie r�publicaine de s�curit�"
+}
+,
+{
+"code_ogr" : 489212,
+"code_rome" : "K1721",
+"libelle" : "Technicien / Technicienne en investigation criminelle"
+}
+,
+{
+"code_ogr" : 489180,
+"code_rome" : "K1722",
+"libelle" : "Conducteur / Conductrice d'autorit� de l'arm�e"
+}
+,
+{
+"code_ogr" : 488934,
+"code_rome" : "K1723",
+"libelle" : "Conducteur / Conductrice V�hicule L�ger de l'arm�e"
+}
+,
+{
+"code_ogr" : 488725,
+"code_rome" : "K1724",
+"libelle" : "M�canicien / M�canicienne d'engins blind�s"
+}
+]
+}
+,
+{
+"code_metier" : "K18",
+"libelle" : "D�veloppement territorial et emploi",
+"liste_metier" : [
+{
+"code_ogr" : 398,
+"code_rome" : "K1801",
+"libelle" : "Conseiller / Conseill�re en insertion professionnelle"
+}
+,
+{
+"code_ogr" : 399,
+"code_rome" : "K1802",
+"libelle" : "Charg� / Charg�e de d�veloppement local"
+}
+]
+}
+,
+{
+"code_metier" : "K19",
+"libelle" : "Droit",
+"liste_metier" : [
+{
+"code_ogr" : 400,
+"code_rome" : "K1901",
+"libelle" : "Notaire"
+}
+,
+{
+"code_ogr" : 401,
+"code_rome" : "K1902",
+"libelle" : "Clerc de notaire"
+}
+,
+{
+"code_ogr" : 402,
+"code_rome" : "K1903",
+"libelle" : "Juriste"
+}
+,
+{
+"code_ogr" : 403,
+"code_rome" : "K1904",
+"libelle" : "Juge"
+}
+,
+{
+"code_ogr" : 488574,
+"code_rome" : "K1905",
+"libelle" : "Huissier / Huissi�re de justice"
+}
+,
+{
+"code_ogr" : 488602,
+"code_rome" : "K1906",
+"libelle" : "D�l�gu� / D�l�gu�e � la protection des donn�es - Data Protection Officer"
+}
+,
+{
+"code_ogr" : 488737,
+"code_rome" : "K1907",
+"libelle" : "Commissaire-priseur / Commissaire-priseure"
+}
+,
+{
+"code_ogr" : 489169,
+"code_rome" : "K1908",
+"libelle" : "Responsable de service contentieux et recouvrement"
+}
+]
+}
+,
+{
+"code_metier" : "K21",
+"libelle" : "Formation initiale et continue",
+"liste_metier" : [
+{
+"code_ogr" : 404,
+"code_rome" : "K2101",
+"libelle" : "Conseiller / Conseill�re en formation"
+}
+,
+{
+"code_ogr" : 405,
+"code_rome" : "K2102",
+"libelle" : "Responsable p�dagogique"
+}
+,
+{
+"code_ogr" : 406,
+"code_rome" : "K2103",
+"libelle" : "Chef / Cheffe d'�tablissement"
+}
+,
+{
+"code_ogr" : 407,
+"code_rome" : "K2104",
+"libelle" : "Surveillant / Surveillante en milieu scolaire"
+}
+,
+{
+"code_ogr" : 408,
+"code_rome" : "K2105",
+"libelle" : "Professeur / Professeure de musique"
+}
+,
+{
+"code_ogr" : 409,
+"code_rome" : "K2106",
+"libelle" : "Professeur / Professeure des �coles"
+}
+,
+{
+"code_ogr" : 410,
+"code_rome" : "K2107",
+"libelle" : "Professeur / Professeure de coll�ge et de lyc�e"
+}
+,
+{
+"code_ogr" : 411,
+"code_rome" : "K2108",
+"libelle" : "Professeur / Professeure des universit�s"
+}
+,
+{
+"code_ogr" : 412,
+"code_rome" : "K2109",
+"libelle" : "Professeur / Professeure d'enseignement professionnel"
+}
+,
+{
+"code_ogr" : 413,
+"code_rome" : "K2110",
+"libelle" : "Moniteur / Monitrice d'auto-�cole"
+}
+,
+{
+"code_ogr" : 414,
+"code_rome" : "K2111",
+"libelle" : "Formateur / Formatrice"
+}
+,
+{
+"code_ogr" : 415,
+"code_rome" : "K2112",
+"libelle" : "Conseiller / Conseill�re d'orientation"
+}
+,
+{
+"code_ogr" : 404546,
+"code_rome" : "K2113",
+"libelle" : "Accompagnant / Accompagnante des �l�ves en situation de handicap (AESH)"
+}
+,
+{
+"code_ogr" : 488317,
+"code_rome" : "K2114",
+"libelle" : "Formateur / Formatrice qualit�"
+}
+,
+{
+"code_ogr" : 488886,
+"code_rome" : "K2115",
+"libelle" : "Conseiller principal / Conseill�re principale d'�ducation"
+}
+,
+{
+"code_ogr" : 488915,
+"code_rome" : "K2116",
+"libelle" : "Responsable d'unit� d'enseignement de la conduite de v�hicule"
+}
+,
+{
+"code_ogr" : 488923,
+"code_rome" : "K2117",
+"libelle" : "Inspecteur / Inspectrice de l'�ducation Nationale -IEN-"
+}
+,
+{
+"code_ogr" : 489031,
+"code_rome" : "K2118",
+"libelle" : "Directeur / Directrice d'�cole primaire"
+}
+]
+}
+,
+{
+"code_metier" : "K22",
+"libelle" : "Nettoyage et propret� industriels",
+"liste_metier" : [
+{
+"code_ogr" : 416,
+"code_rome" : "K2201",
+"libelle" : "Blanchisseur industriel / Blanchisseuse industrielle"
+}
+,
+{
+"code_ogr" : 417,
+"code_rome" : "K2202",
+"libelle" : "Laveur / Laveuse de vitres"
+}
+,
+{
+"code_ogr" : 418,
+"code_rome" : "K2203",
+"libelle" : "Responsable de site nettoyage de locaux"
+}
+,
+{
+"code_ogr" : 419,
+"code_rome" : "K2204",
+"libelle" : "Agent / Agente de nettoyage industriel"
+}
+,
+{
+"code_ogr" : 488581,
+"code_rome" : "K2205",
+"libelle" : "Agent / Agente de propret� de locaux"
+}
+]
+}
+,
+{
+"code_metier" : "K23",
+"libelle" : "Propret� et environnement urbain",
+"liste_metier" : [
+{
+"code_ogr" : 420,
+"code_rome" : "K2301",
+"libelle" : "Agent / Agente d'assainissement"
+}
+,
+{
+"code_ogr" : 421,
+"code_rome" : "K2302",
+"libelle" : "Directeur / Directrice collecte des d�chets"
+}
+,
+{
+"code_ogr" : 422,
+"code_rome" : "K2303",
+"libelle" : "Ripeur / Ripeuse"
+}
+,
+{
+"code_ogr" : 423,
+"code_rome" : "K2304",
+"libelle" : "Agent / Agente de tri des d�chets"
+}
+,
+{
+"code_ogr" : 424,
+"code_rome" : "K2305",
+"libelle" : "Agent / Agente de d�sinsectisation"
+}
+,
+{
+"code_ogr" : 425,
+"code_rome" : "K2306",
+"libelle" : "Responsable de site �co-industriel"
+}
+,
+{
+"code_ogr" : 488790,
+"code_rome" : "K2307",
+"libelle" : "Agent / Agente de propret� urbaine"
+}
+,
+{
+"code_ogr" : 489068,
+"code_rome" : "K2308",
+"libelle" : "Op�rateur / Op�ratrice de tri en r�cup�ration et revalorisation"
+}
+,
+{
+"code_ogr" : 489069,
+"code_rome" : "K2309",
+"libelle" : "Technicien / Technicienne r�utilisation recyclage"
+}
+,
+{
+"code_ogr" : 489221,
+"code_rome" : "K2310",
+"libelle" : "Ambassadeur / Ambassadrice du tri"
+}
+]
+}
+,
+{
+"code_metier" : "K24",
+"libelle" : "Recherche",
+"liste_metier" : [
+{
+"code_ogr" : 426,
+"code_rome" : "K2401",
+"libelle" : "Chercheur / Chercheuse en sciences humaines et sociales"
+}
+,
+{
+"code_ogr" : 427,
+"code_rome" : "K2402",
+"libelle" : "Ing�nieur / Ing�nieure de recherche scientifique"
+}
+,
+{
+"code_ogr" : 404547,
+"code_rome" : "K2403",
+"libelle" : "Biostatisticien / Biostatisticienne"
+}
+,
+{
+"code_ogr" : 488272,
+"code_rome" : "K2404",
+"libelle" : "Charg� / Charg�e de recherche"
+}
+,
+{
+"code_ogr" : 488279,
+"code_rome" : "K2405",
+"libelle" : "Attach� / Attach�e de recherche clinique en milieu hospitalier"
+}
+,
+{
+"code_ogr" : 488570,
+"code_rome" : "K2406",
+"libelle" : "Directeur / Directrice de recherche"
+}
+,
+{
+"code_ogr" : 488592,
+"code_rome" : "K2407",
+"libelle" : "Climatologue"
+}
+,
+{
+"code_ogr" : 488864,
+"code_rome" : "K2408",
+"libelle" : "Math�maticien / Math�maticienne"
+}
+,
+{
+"code_ogr" : 488918,
+"code_rome" : "K2409",
+"libelle" : "Astronome"
+}
+,
+{
+"code_ogr" : 489170,
+"code_rome" : "K2410",
+"libelle" : "Astrophysicien / Astrophysicienne"
+}
+]
+}
+,
+{
+"code_metier" : "K25",
+"libelle" : "S�curit� priv�e",
+"liste_metier" : [
+{
+"code_ogr" : 428,
+"code_rome" : "K2501",
+"libelle" : "Gardien / Gardienne"
+}
+,
+{
+"code_ogr" : 429,
+"code_rome" : "K2502",
+"libelle" : "Responsable s�curit� de site"
+}
+,
+{
+"code_ogr" : 430,
+"code_rome" : "K2503",
+"libelle" : "Agent / Agente de pr�vention et de s�curit�"
+}
+,
+{
+"code_ogr" : 404548,
+"code_rome" : "K2504",
+"libelle" : "Agent / Agente de s�curit� �v�nementielle"
+}
+,
+{
+"code_ogr" : 488622,
+"code_rome" : "K2505",
+"libelle" : "Enqu�teur priv� / Enqu�trice priv�e"
+}
+,
+{
+"code_ogr" : 488730,
+"code_rome" : "K2506",
+"libelle" : "Convoyeur / Convoyeuse de fonds"
+}
+]
+}
+,
+{
+"code_metier" : "K26",
+"libelle" : "Services fun�raires",
+"liste_metier" : [
+{
+"code_ogr" : 431,
+"code_rome" : "K2601",
+"libelle" : "Porteur / Porteuse fun�raire"
+}
+,
+{
+"code_ogr" : 432,
+"code_rome" : "K2602",
+"libelle" : "Conseiller / Conseill�re fun�raire"
+}
+,
+{
+"code_ogr" : 433,
+"code_rome" : "K2603",
+"libelle" : "Thanatopracteur / Thanatopractrice"
+}
+]
+}
+]
+}
+,
+{
+"code_metier" : "L",
+"libelle" : "Spectacle",
+"liste_domaine_prof" : [
+{
+"code_metier" : "L11",
+"libelle" : "Animation de spectacles",
+"liste_metier" : [
+{
+"code_ogr" : 435,
+"code_rome" : "L1101",
+"libelle" : "Disc-jockey"
+}
+,
+{
+"code_ogr" : 436,
+"code_rome" : "L1102",
+"libelle" : "Mannequin"
+}
+,
+{
+"code_ogr" : 437,
+"code_rome" : "L1103",
+"libelle" : "Animateur / Animatrice radio"
+}
+]
+}
+,
+{
+"code_metier" : "L12",
+"libelle" : "Artistes - interpr�tes du spectacle",
+"liste_metier" : [
+{
+"code_ogr" : 438,
+"code_rome" : "L1201",
+"libelle" : "Danseur / Danseuse"
+}
+,
+{
+"code_ogr" : 439,
+"code_rome" : "L1202",
+"libelle" : "Musicien / Musicienne"
+}
+,
+{
+"code_ogr" : 440,
+"code_rome" : "L1203",
+"libelle" : "Com�dien / Com�dienne"
+}
+,
+{
+"code_ogr" : 441,
+"code_rome" : "L1204",
+"libelle" : "Artiste de cirque"
+}
+,
+{
+"code_ogr" : 488723,
+"code_rome" : "L1205",
+"libelle" : "Artiste-interpr�te"
+}
+,
+{
+"code_ogr" : 488757,
+"code_rome" : "L1206",
+"libelle" : "Cavalier / Cavali�re de spectacle"
+}
+,
+{
+"code_ogr" : 488789,
+"code_rome" : "L1207",
+"libelle" : "Cascadeur / Cascadeuse"
+}
+,
+{
+"code_ogr" : 489202,
+"code_rome" : "L1208",
+"libelle" : "Mascotte-personnage"
+}
+]
+}
+,
+{
+"code_metier" : "L13",
+"libelle" : "Conception et production de spectacles",
+"liste_metier" : [
+{
+"code_ogr" : 442,
+"code_rome" : "L1301",
+"libelle" : "Metteur / Metteuse en sc�ne"
+}
+,
+{
+"code_ogr" : 443,
+"code_rome" : "L1302",
+"libelle" : "Producteur / Productrice de film"
+}
+,
+{
+"code_ogr" : 444,
+"code_rome" : "L1303",
+"libelle" : "Agent / Agente de talent"
+}
+,
+{
+"code_ogr" : 445,
+"code_rome" : "L1304",
+"libelle" : "R�alisateur / R�alisatrice"
+}
+,
+{
+"code_ogr" : 489569,
+"code_rome" : "L1305",
+"libelle" : "Directeur / Directrice artistique spectacle"
+}
+]
+}
+,
+{
+"code_metier" : "L14",
+"libelle" : "Sport professionnel",
+"liste_metier" : [
+{
+"code_ogr" : 446,
+"code_rome" : "L1401",
+"libelle" : "Sportif professionnel / Sportive professionnelle"
+}
+,
+{
+"code_ogr" : 488306,
+"code_rome" : "L1402",
+"libelle" : "Arbitre professionnel / Professionnelle de discipline sportive"
+}
+]
+}
+,
+{
+"code_metier" : "L15",
+"libelle" : "Techniciens du spectacle",
+"liste_metier" : [
+{
+"code_ogr" : 447,
+"code_rome" : "L1501",
+"libelle" : "Maquilleur / Maquilleuse spectacle"
+}
+,
+{
+"code_ogr" : 448,
+"code_rome" : "L1502",
+"libelle" : "Costumier / Costumi�re"
+}
+,
+{
+"code_ogr" : 449,
+"code_rome" : "L1503",
+"libelle" : "Accessoiriste"
+}
+,
+{
+"code_ogr" : 450,
+"code_rome" : "L1504",
+"libelle" : "�clairagiste"
+}
+,
+{
+"code_ogr" : 451,
+"code_rome" : "L1505",
+"libelle" : "Cadreur / Cadreuse"
+}
+,
+{
+"code_ogr" : 452,
+"code_rome" : "L1506",
+"libelle" : "Machiniste spectacle"
+}
+,
+{
+"code_ogr" : 453,
+"code_rome" : "L1507",
+"libelle" : "Monteur / Monteuse vid�o"
+}
+,
+{
+"code_ogr" : 454,
+"code_rome" : "L1508",
+"libelle" : "R�gisseur / R�gisseuse du son"
+}
+,
+{
+"code_ogr" : 455,
+"code_rome" : "L1509",
+"libelle" : "R�gisseur / R�gisseuse de production"
+}
+,
+{
+"code_ogr" : 39022,
+"code_rome" : "L1510",
+"libelle" : "Animateur / Animatrice 3D - films d'animation"
+}
+,
+{
+"code_ogr" : 488715,
+"code_rome" : "L1511",
+"libelle" : "Technicien / Technicienne spectacle en site de divertissement"
+}
+,
+{
+"code_ogr" : 489065,
+"code_rome" : "L1512",
+"libelle" : "R�gisseur / R�gisseuse de spectacles"
+}
+,
+{
+"code_ogr" : 489172,
+"code_rome" : "L1513",
+"libelle" : "Sc�nographe"
+}
+]
+}
+]
+}
+,
+{
+"code_metier" : "M",
+"libelle" : "Support � l'entreprise",
+"liste_domaine_prof" : [
+{
+"code_metier" : "M11",
+"libelle" : "Achats",
+"liste_metier" : [
+{
+"code_ogr" : 456,
+"code_rome" : "M1101",
+"libelle" : "Acheteur / Acheteuse"
+}
+,
+{
+"code_ogr" : 457,
+"code_rome" : "M1102",
+"libelle" : "Responsable des achats"
+}
+]
+}
+,
+{
+"code_metier" : "M12",
+"libelle" : "Comptabilit� et gestion",
+"liste_metier" : [
+{
+"code_ogr" : 458,
+"code_rome" : "M1201",
+"libelle" : "Analyste Financier / Financi�re"
+}
+,
+{
+"code_ogr" : 459,
+"code_rome" : "M1202",
+"libelle" : "Expert-comptable / Experte-comptable"
+}
+,
+{
+"code_ogr" : 460,
+"code_rome" : "M1203",
+"libelle" : "Comptable"
+}
+,
+{
+"code_ogr" : 461,
+"code_rome" : "M1204",
+"libelle" : "Contr�leur / Contr�leuse de gestion"
+}
+,
+{
+"code_ogr" : 462,
+"code_rome" : "M1205",
+"libelle" : "Directeur administratif et financier / Directrice administrative et financi�re -DAF-"
+}
+,
+{
+"code_ogr" : 463,
+"code_rome" : "M1206",
+"libelle" : "Chef comptable"
+}
+,
+{
+"code_ogr" : 464,
+"code_rome" : "M1207",
+"libelle" : "Tr�sorier / Tr�sori�re"
+}
+,
+{
+"code_ogr" : 488629,
+"code_rome" : "M1208",
+"libelle" : "Responsable contr�le de gestion"
+}
+,
+{
+"code_ogr" : 488910,
+"code_rome" : "M1209",
+"libelle" : "Conseiller / Conseill�re en gestion"
+}
+,
+{
+"code_ogr" : 489196,
+"code_rome" : "M1210",
+"libelle" : "Commissaire aux comptes"
+}
+]
+}
+,
+{
+"code_metier" : "M13",
+"libelle" : "Direction d'entreprise",
+"liste_metier" : [
+{
+"code_ogr" : 465,
+"code_rome" : "M1301",
+"libelle" : "Pr�sident Directeur G�n�ral / Pr�sidente Directrice G�n�rale -PDG-"
+}
+,
+{
+"code_ogr" : 466,
+"code_rome" : "M1302",
+"libelle" : "Responsable de Petite ou Moyenne Entreprise -PME-"
+}
+]
+}
+,
+{
+"code_metier" : "M14",
+"libelle" : "Organisation et �tudes",
+"liste_metier" : [
+{
+"code_ogr" : 467,
+"code_rome" : "M1401",
+"libelle" : "Enqu�teur / Enqu�trice sondage"
+}
+,
+{
+"code_ogr" : 468,
+"code_rome" : "M1402",
+"libelle" : "Consultant / Consultante en organisation et management"
+}
+,
+{
+"code_ogr" : 469,
+"code_rome" : "M1403",
+"libelle" : "Charg� / Charg�e d'�tudes socio-�conomiques"
+}
+,
+{
+"code_ogr" : 470,
+"code_rome" : "M1404",
+"libelle" : "Sondeur enqu�teur / Sondeuse enqu�trice"
+}
+,
+{
+"code_ogr" : 404047,
+"code_rome" : "M1405",
+"libelle" : "Data scientist"
+}
+,
+{
+"code_ogr" : 488287,
+"code_rome" : "M1406",
+"libelle" : "Responsable RSE - Responsabilit� Soci�tale de l'Entreprise"
+}
+,
+{
+"code_ogr" : 488300,
+"code_rome" : "M1407",
+"libelle" : "Responsable de la veille scientifique et technique"
+}
+,
+{
+"code_ogr" : 488337,
+"code_rome" : "M1408",
+"libelle" : "Responsable des �tudes pharmaco-�conomiques"
+}
+,
+{
+"code_ogr" : 488639,
+"code_rome" : "M1409",
+"libelle" : "Ing�nieur / Ing�nieure �conomiste en entreprise"
+}
+,
+{
+"code_ogr" : 488729,
+"code_rome" : "M1410",
+"libelle" : "Responsable Green IT"
+}
+,
+{
+"code_ogr" : 488756,
+"code_rome" : "M1411",
+"libelle" : "Responsable d'enqu�tes"
+}
+,
+{
+"code_ogr" : 488778,
+"code_rome" : "M1412",
+"libelle" : "Ergonome"
+}
+,
+{
+"code_ogr" : 488936,
+"code_rome" : "M1413",
+"libelle" : "Charg� / Charg�e de mission RSE - Responsabilit� Soci�tale de l'Entreprise"
+}
+,
+{
+"code_ogr" : 489213,
+"code_rome" : "M1414",
+"libelle" : "Ing�nieur statisticien / Ing�nieure statisticienne"
+}
+]
+}
+,
+{
+"code_metier" : "M15",
+"libelle" : "Ressources humaines",
+"liste_metier" : [
+{
+"code_ogr" : 471,
+"code_rome" : "M1501",
+"libelle" : "Assistant / Assistante ressources humaines"
+}
+,
+{
+"code_ogr" : 472,
+"code_rome" : "M1502",
+"libelle" : "Charg� / Charg�e de recrutement"
+}
+,
+{
+"code_ogr" : 473,
+"code_rome" : "M1503",
+"libelle" : "Directeur / Directrice des Ressources Humaines -DRH-"
+}
+,
+{
+"code_ogr" : 488280,
+"code_rome" : "M1504",
+"libelle" : "Responsable formation professionnelle en entreprise"
+}
+,
+{
+"code_ogr" : 488324,
+"code_rome" : "M1505",
+"libelle" : "Charg� / Charg�e de formation en entreprise"
+}
+,
+{
+"code_ogr" : 488608,
+"code_rome" : "M1506",
+"libelle" : "Manager de proximit�"
+}
+,
+{
+"code_ogr" : 488773,
+"code_rome" : "M1507",
+"libelle" : "Gestionnaire paie"
+}
+]
+}
+,
+{
+"code_metier" : "M16",
+"libelle" : "Secr�tariat et assistance",
+"liste_metier" : [
+{
+"code_ogr" : 474,
+"code_rome" : "M1601",
+"libelle" : "Charg� / Charg�e d'accueil"
+}
+,
+{
+"code_ogr" : 475,
+"code_rome" : "M1602",
+"libelle" : "Agent administratif / Agente administrative"
+}
+,
+{
+"code_ogr" : 476,
+"code_rome" : "M1603",
+"libelle" : "Facteur / Factrice"
+}
+,
+{
+"code_ogr" : 477,
+"code_rome" : "M1604",
+"libelle" : "Assistant / Assistante de direction"
+}
+,
+{
+"code_ogr" : 478,
+"code_rome" : "M1605",
+"libelle" : "Secr�taire technique"
+}
+,
+{
+"code_ogr" : 479,
+"code_rome" : "M1606",
+"libelle" : "Op�rateur / Op�ratrice de saisie"
+}
+,
+{
+"code_ogr" : 480,
+"code_rome" : "M1607",
+"libelle" : "Secr�taire"
+}
+,
+{
+"code_ogr" : 481,
+"code_rome" : "M1608",
+"libelle" : "Secr�taire comptable"
+}
+,
+{
+"code_ogr" : 482,
+"code_rome" : "M1609",
+"libelle" : "Secr�taire m�dical / Secr�taire m�dicale"
+}
+,
+{
+"code_ogr" : 488304,
+"code_rome" : "M1610",
+"libelle" : "Intendant / Intendante du sport"
+}
+,
+{
+"code_ogr" : 488746,
+"code_rome" : "M1611",
+"libelle" : "Secr�taire Facturier / Facturi�re"
+}
+,
+{
+"code_ogr" : 488787,
+"code_rome" : "M1612",
+"libelle" : "Assistant / Assistante de service juridique"
+}
+,
+{
+"code_ogr" : 488885,
+"code_rome" : "M1613",
+"libelle" : "T�l�secr�taire"
+}
+,
+{
+"code_ogr" : 488927,
+"code_rome" : "M1614",
+"libelle" : "Standardiste"
+}
+,
+{
+"code_ogr" : 489012,
+"code_rome" : "M1615",
+"libelle" : "Distributeur / Distributrice de prospectus et imprim�s"
+}
+,
+{
+"code_ogr" : 489162,
+"code_rome" : "M1616",
+"libelle" : "Steward / H�tesse au sol"
+}
+,
+{
+"code_ogr" : 489184,
+"code_rome" : "M1617",
+"libelle" : "M�decin responsable de la Documentation et de l'Information M�dicale (M�decin responsable -DIM-)"
+}
+]
+}
+,
+{
+"code_metier" : "M17",
+"libelle" : "Strat�gie commerciale, marketing et supervision des ventes",
+"liste_metier" : [
+{
+"code_ogr" : 483,
+"code_rome" : "M1701",
+"libelle" : "Responsable de l'administration des ventes"
+}
+,
+{
+"code_ogr" : 484,
+"code_rome" : "M1702",
+"libelle" : "Planneur / Planneuse strat�gique"
+}
+,
+{
+"code_ogr" : 485,
+"code_rome" : "M1703",
+"libelle" : "Chef / Cheffe de produit"
+}
+,
+{
+"code_ogr" : 486,
+"code_rome" : "M1704",
+"libelle" : "Responsable relation client (CRM)"
+}
+,
+{
+"code_ogr" : 487,
+"code_rome" : "M1705",
+"libelle" : "Responsable marketing"
+}
+,
+{
+"code_ogr" : 488,
+"code_rome" : "M1706",
+"libelle" : "Chef de promotion des ventes"
+}
+,
+{
+"code_ogr" : 489,
+"code_rome" : "M1707",
+"libelle" : "Responsable Commercial / Commerciale"
+}
+,
+{
+"code_ogr" : 488274,
+"code_rome" : "M1708",
+"libelle" : "Directeur / Directrice de l'acc�s au march�"
+}
+,
+{
+"code_ogr" : 488275,
+"code_rome" : "M1709",
+"libelle" : "Chef / Cheffe de gamme"
+}
+,
+{
+"code_ogr" : 488307,
+"code_rome" : "M1710",
+"libelle" : "Responsable r�gional / Responsable r�gionale des relations scientifiques m�dicales"
+}
+,
+{
+"code_ogr" : 488310,
+"code_rome" : "M1711",
+"libelle" : "Directeur / Directrice du marketing"
+}
+,
+{
+"code_ogr" : 488340,
+"code_rome" : "M1712",
+"libelle" : "Directeur / Directrice de l'information promotionnelle du m�dicament"
+}
+,
+{
+"code_ogr" : 488342,
+"code_rome" : "M1713",
+"libelle" : "Responsable d'associations de patients"
+}
+,
+{
+"code_ogr" : 488569,
+"code_rome" : "M1714",
+"libelle" : "Charg� / Charg�e de l'information promotionnelle du m�dicament"
+}
+,
+{
+"code_ogr" : 488738,
+"code_rome" : "M1715",
+"libelle" : "Directeur commercial / Directrice commerciale"
+}
+,
+{
+"code_ogr" : 488873,
+"code_rome" : "M1716",
+"libelle" : "Responsable marketing digital"
+}
+]
+}
+,
+{
+"code_metier" : "M18",
+"libelle" : "Syst�mes d'information et de t�l�communication",
+"liste_metier" : [
+{
+"code_ogr" : 490,
+"code_rome" : "M1801",
+"libelle" : "Administrateur / Administratrice de syst�mes d'information (SI)"
+}
+,
+{
+"code_ogr" : 491,
+"code_rome" : "M1802",
+"libelle" : "Expert / Experte syst�mes et r�seaux informatiques"
+}
+,
+{
+"code_ogr" : 492,
+"code_rome" : "M1803",
+"libelle" : "Directeur / Directrice des services informatiques -DSI-"
+}
+,
+{
+"code_ogr" : 493,
+"code_rome" : "M1804",
+"libelle" : "Ing�nieur / Ing�nieure t�l�coms"
+}
+,
+{
+"code_ogr" : 494,
+"code_rome" : "M1805",
+"libelle" : "D�veloppeur / D�veloppeuse informatique"
+}
+,
+{
+"code_ogr" : 495,
+"code_rome" : "M1806",
+"libelle" : "Product Owner"
+}
+,
+{
+"code_ogr" : 496,
+"code_rome" : "M1807",
+"libelle" : "Op�rateur / Op�ratrice t�l�com aux arm�es"
+}
+,
+{
+"code_ogr" : 497,
+"code_rome" : "M1808",
+"libelle" : "Cartographe"
+}
+,
+{
+"code_ogr" : 498,
+"code_rome" : "M1809",
+"libelle" : "M�t�orologue"
+}
+,
+{
+"code_ogr" : 499,
+"code_rome" : "M1810",
+"libelle" : "Technicien / Technicienne informatique"
+}
+,
+{
+"code_ogr" : 404048,
+"code_rome" : "M1811",
+"libelle" : "Data engineer"
+}
+,
+{
+"code_ogr" : 404049,
+"code_rome" : "M1812",
+"libelle" : "Responsable de la S�curit� des Syst�mes d'Information (RSSI)"
+}
+,
+{
+"code_ogr" : 404050,
+"code_rome" : "M1813",
+"libelle" : "Int�grateur / Int�gratrice logiciels m�tiers"
+}
+,
+{
+"code_ogr" : 488329,
+"code_rome" : "M1814",
+"libelle" : "Scrum Master"
+}
+,
+{
+"code_ogr" : 488576,
+"code_rome" : "M1815",
+"libelle" : "Sp�cialiste test et validation logiciel ou application"
+}
+,
+{
+"code_ogr" : 488603,
+"code_rome" : "M1816",
+"libelle" : "Technicien / Technicienne r�seaux informatiques et t�l�coms"
+}
+,
+{
+"code_ogr" : 488636,
+"code_rome" : "M1817",
+"libelle" : "Administrateur / Administratrice s�curit� informatique"
+}
+,
+{
+"code_ogr" : 488641,
+"code_rome" : "M1818",
+"libelle" : "Ing�nieur / Ing�nieure d'�tude informatique"
+}
+,
+{
+"code_ogr" : 488707,
+"code_rome" : "M1819",
+"libelle" : "Ing�nieur / Ing�nieure s�curit� informatique"
+}
+,
+{
+"code_ogr" : 488713,
+"code_rome" : "M1820",
+"libelle" : "Expert / Experte m�thodes et qualit� informatique"
+}
+,
+{
+"code_ogr" : 488716,
+"code_rome" : "M1821",
+"libelle" : "Analyste d'application informatique"
+}
+,
+{
+"code_ogr" : 488717,
+"code_rome" : "M1822",
+"libelle" : "Ing�nieur / Ing�nieure syst�mes et r�seaux informatiques"
+}
+,
+{
+"code_ogr" : 488721,
+"code_rome" : "M1823",
+"libelle" : "Consultant / Consultante avant-vente"
+}
+,
+{
+"code_ogr" : 488748,
+"code_rome" : "M1824",
+"libelle" : "D�veloppeur / D�veloppeuse d�cisionnel - Business Intelligence"
+}
+,
+{
+"code_ogr" : 488750,
+"code_rome" : "M1825",
+"libelle" : "Coordinateur / Coordinatrice de production web"
+}
+,
+{
+"code_ogr" : 488753,
+"code_rome" : "M1826",
+"libelle" : "Ing�nieur / Ing�nieure supervision IT Datacenter"
+}
+,
+{
+"code_ogr" : 488754,
+"code_rome" : "M1827",
+"libelle" : "Ing�nieur / Ing�nieure DevOps"
+}
+,
+{
+"code_ogr" : 488768,
+"code_rome" : "M1828",
+"libelle" : "Chef de projet / Cheffe de projet (Project Management Officer)"
+}
+,
+{
+"code_ogr" : 488772,
+"code_rome" : "M1829",
+"libelle" : "Ing�nieur / Ing�nieure syst�mes et r�seaux des territoires connect�s"
+}
+,
+{
+"code_ogr" : 488785,
+"code_rome" : "M1830",
+"libelle" : "Administrateur / Administratrice r�seaux - t�l�coms"
+}
+,
+{
+"code_ogr" : 488786,
+"code_rome" : "M1831",
+"libelle" : "D�veloppeur / D�veloppeuse - jeux vid�o"
+}
+,
+{
+"code_ogr" : 488865,
+"code_rome" : "M1832",
+"libelle" : "Homologateur / Homologatrice fonctionnel de logiciel"
+}
+,
+{
+"code_ogr" : 488877,
+"code_rome" : "M1833",
+"libelle" : "Ing�nieur / Ing�nieure s�curit� web"
+}
+,
+{
+"code_ogr" : 488888,
+"code_rome" : "M1834",
+"libelle" : "Administrateur / Administratrice de site Web"
+}
+,
+{
+"code_ogr" : 488890,
+"code_rome" : "M1835",
+"libelle" : "Architecte syst�mes et r�seaux des territoires connect�s"
+}
+,
+{
+"code_ogr" : 488894,
+"code_rome" : "M1836",
+"libelle" : "Ing�nieur concepteur / Ing�nieure conceptrice informatique"
+}
+,
+{
+"code_ogr" : 488904,
+"code_rome" : "M1837",
+"libelle" : "D�veloppeur / D�veloppeuse multim�dia"
+}
+,
+{
+"code_ogr" : 488905,
+"code_rome" : "M1838",
+"libelle" : "Urbaniste des syst�mes d'information"
+}
+,
+{
+"code_ogr" : 488909,
+"code_rome" : "M1839",
+"libelle" : "Architecte syst�mes et r�seaux"
+}
+,
+{
+"code_ogr" : 488917,
+"code_rome" : "M1840",
+"libelle" : "Directeur / Directrice de projets des territoires connect�s"
+}
+,
+{
+"code_ogr" : 488922,
+"code_rome" : "M1841",
+"libelle" : "Ing�nieur informaticien / Ing�nieure informaticienne"
+}
+,
+{
+"code_ogr" : 488933,
+"code_rome" : "M1842",
+"libelle" : "Qualiticien / Qualiticienne logiciel en informatique"
+}
+,
+{
+"code_ogr" : 489009,
+"code_rome" : "M1843",
+"libelle" : "Administrateur / Administratrice de serveurs"
+}
+,
+{
+"code_ogr" : 489017,
+"code_rome" : "M1844",
+"libelle" : "Analyste en cybers�curit�"
+}
+,
+{
+"code_ogr" : 489023,
+"code_rome" : "M1845",
+"libelle" : "Architecte IoT - Internet des Objets"
+}
+,
+{
+"code_ogr" : 489026,
+"code_rome" : "M1846",
+"libelle" : "Ing�nieur / Ing�nieure Cybers�curit� Datacenter"
+}
+,
+{
+"code_ogr" : 489035,
+"code_rome" : "M1847",
+"libelle" : "Expert / Experte en communication et r�seaux"
+}
+,
+{
+"code_ogr" : 489055,
+"code_rome" : "M1848",
+"libelle" : "Analyste Concepteur / Conceptrice informatique"
+}
+,
+{
+"code_ogr" : 489061,
+"code_rome" : "M1849",
+"libelle" : "Administrateur / Administratrice de messagerie"
+}
+,
+{
+"code_ogr" : 489066,
+"code_rome" : "M1850",
+"libelle" : "Architecte multim�dias interactifs"
+}
+,
+{
+"code_ogr" : 489067,
+"code_rome" : "M1851",
+"libelle" : "Analyste d�cisionnel - Business Intelligence"
+}
+,
+{
+"code_ogr" : 489072,
+"code_rome" : "M1852",
+"libelle" : "Analyste d'�tude informatique"
+}
+,
+{
+"code_ogr" : 489073,
+"code_rome" : "M1853",
+"libelle" : "Chef / Cheffe de projet �tude et d�veloppement informatique"
+}
+,
+{
+"code_ogr" : 489078,
+"code_rome" : "M1854",
+"libelle" : "Administrateur / Administratrice r�seau informatique"
+}
+,
+{
+"code_ogr" : 489081,
+"code_rome" : "M1855",
+"libelle" : "D�veloppeur / D�veloppeuse web"
+}
+,
+{
+"code_ogr" : 489082,
+"code_rome" : "M1856",
+"libelle" : "Expert / Experte en cybers�curit�"
+}
+,
+{
+"code_ogr" : 489174,
+"code_rome" : "M1857",
+"libelle" : "Urbaniste Datacenter"
+}
+,
+{
+"code_ogr" : 489179,
+"code_rome" : "M1858",
+"libelle" : "Chef / Cheffe de projet TMA - Tierce Maintenance Applicative"
+}
+,
+{
+"code_ogr" : 489188,
+"code_rome" : "M1859",
+"libelle" : "Chef / Cheffe de projet ma�trise d'�uvre informatique"
+}
+,
+{
+"code_ogr" : 489199,
+"code_rome" : "M1860",
+"libelle" : "Architecte cloud"
+}
+,
+{
+"code_ogr" : 489209,
+"code_rome" : "M1861",
+"libelle" : "D�veloppeur / D�veloppeuse logiciel ou d'application"
+}
+,
+{
+"code_ogr" : 489217,
+"code_rome" : "M1862",
+"libelle" : "Responsable d'exploitation fibre optique"
+}
+,
+{
+"code_ogr" : 489218,
+"code_rome" : "M1863",
+"libelle" : "Evaluateur / Evaluatrice s�curit� des syst�mes et produits informatiques"
+}
+]
+}
+]
+}
+,
+{
+"code_metier" : "N",
+"libelle" : "Transport et Logistique",
+"liste_domaine_prof" : [
+{
+"code_metier" : "N11",
+"libelle" : "Magasinage, manutention des charges et d�m�nagement",
+"liste_metier" : [
+{
+"code_ogr" : 500,
+"code_rome" : "N1101",
+"libelle" : "Cariste"
+}
+,
+{
+"code_ogr" : 501,
+"code_rome" : "N1102",
+"libelle" : "D�m�nageur / D�m�nageuse"
+}
+,
+{
+"code_ogr" : 502,
+"code_rome" : "N1103",
+"libelle" : "Pr�parateur / Pr�paratrice de commandes"
+}
+,
+{
+"code_ogr" : 503,
+"code_rome" : "N1104",
+"libelle" : "Pontier / Ponti�re"
+}
+,
+{
+"code_ogr" : 504,
+"code_rome" : "N1105",
+"libelle" : "Manutentionnaire"
+}
+,
+{
+"code_ogr" : 488333,
+"code_rome" : "N1106",
+"libelle" : "Agent / Agente de quai manutentionnaire"
+}
+,
+{
+"code_ogr" : 488599,
+"code_rome" : "N1107",
+"libelle" : "Chef / Cheffe d'�quipe en d�m�nagement"
+}
+,
+{
+"code_ogr" : 488735,
+"code_rome" : "N1108",
+"libelle" : "Conducteur / Conductrice de grue mobile"
+}
+,
+{
+"code_ogr" : 488769,
+"code_rome" : "N1109",
+"libelle" : "�clusier-barragiste / �clusi�re-barragiste"
+}
+,
+{
+"code_ogr" : 488771,
+"code_rome" : "N1110",
+"libelle" : "Magasinier / Magasini�re"
+}
+,
+{
+"code_ogr" : 488893,
+"code_rome" : "N1111",
+"libelle" : "Conducteur / Conductrice de pont roulant"
+}
+,
+{
+"code_ogr" : 488924,
+"code_rome" : "N1112",
+"libelle" : "Chef cariste / Cheffe cariste"
+}
+,
+{
+"code_ogr" : 489051,
+"code_rome" : "N1113",
+"libelle" : "Pr�parateur / Pr�paratrice au drive"
+}
+,
+{
+"code_ogr" : 489077,
+"code_rome" : "N1114",
+"libelle" : "Conducteur / Conductrice d'engins lourds de manutention"
+}
+,
+{
+"code_ogr" : 489164,
+"code_rome" : "N1115",
+"libelle" : "Op�rateur / Op�ratrice logistique en entrep�t"
+}
+,
+{
+"code_ogr" : 489168,
+"code_rome" : "N1116",
+"libelle" : "Agent / Agente de quai r�ceptionnaire"
+}
+]
+}
+,
+{
+"code_metier" : "N12",
+"libelle" : "Organisation de la circulation des marchandises",
+"liste_metier" : [
+{
+"code_ogr" : 505,
+"code_rome" : "N1201",
+"libelle" : "Affr�teur / Affr�teuse"
+}
+,
+{
+"code_ogr" : 506,
+"code_rome" : "N1202",
+"libelle" : "Employ� / Employ�e de transit"
+}
+,
+{
+"code_ogr" : 488586,
+"code_rome" : "N1203",
+"libelle" : "Technicien / Technicienne gestion douani�re"
+}
+,
+{
+"code_ogr" : 488601,
+"code_rome" : "N1204",
+"libelle" : "Coordinateur / Coordinatrice transit -import/export-"
+}
+,
+{
+"code_ogr" : 488741,
+"code_rome" : "N1205",
+"libelle" : "Responsable de service transit"
+}
+,
+{
+"code_ogr" : 488863,
+"code_rome" : "N1206",
+"libelle" : "Courtier / Courti�re affr�tement maritime"
+}
+,
+{
+"code_ogr" : 489175,
+"code_rome" : "N1207",
+"libelle" : "Chef / Cheffe de groupe affr�tement"
+}
+]
+}
+,
+{
+"code_metier" : "N13",
+"libelle" : "Personnel d'encadrement de la logistique",
+"liste_metier" : [
+{
+"code_ogr" : 507,
+"code_rome" : "N1301",
+"libelle" : "Responsable logistique"
+}
+,
+{
+"code_ogr" : 508,
+"code_rome" : "N1302",
+"libelle" : "Responsable entrep�t logistique"
+}
+,
+{
+"code_ogr" : 509,
+"code_rome" : "N1303",
+"libelle" : "Approvisionneur / Approvisionneuse logistique"
+}
+,
+{
+"code_ogr" : 488588,
+"code_rome" : "N1304",
+"libelle" : "Directeur / Directrice logistique"
+}
+,
+{
+"code_ogr" : 489020,
+"code_rome" : "N1305",
+"libelle" : "Ing�nieur / Ing�nieure logistique"
+}
+]
+}
+,
+{
+"code_metier" : "N21",
+"libelle" : "Personnel navigant du transport a�rien",
+"liste_metier" : [
+{
+"code_ogr" : 510,
+"code_rome" : "N2101",
+"libelle" : "Steward / H�tesse de l'air"
+}
+,
+{
+"code_ogr" : 511,
+"code_rome" : "N2102",
+"libelle" : "Pilote de ligne"
+}
+]
+}
+,
+{
+"code_metier" : "N22",
+"libelle" : "Personnel s�dentaire du transport a�rien",
+"liste_metier" : [
+{
+"code_ogr" : 512,
+"code_rome" : "N2201",
+"libelle" : "Agent / Agente d'escale"
+}
+,
+{
+"code_ogr" : 513,
+"code_rome" : "N2202",
+"libelle" : "Contr�leur a�rien / Contr�leuse a�rienne"
+}
+,
+{
+"code_ogr" : 514,
+"code_rome" : "N2203",
+"libelle" : "Agent / Agente de piste"
+}
+,
+{
+"code_ogr" : 515,
+"code_rome" : "N2204",
+"libelle" : "Agent / Agente de trafic a�rien"
+}
+,
+{
+"code_ogr" : 516,
+"code_rome" : "N2205",
+"libelle" : "Chef / Cheffe d'escale"
+}
+,
+{
+"code_ogr" : 489039,
+"code_rome" : "N2206",
+"libelle" : "Pilote de drone"
+}
+,
+{
+"code_ogr" : 489211,
+"code_rome" : "N2207",
+"libelle" : "Agent / Agente d'accompagnement du transport"
+}
+]
+}
+,
+{
+"code_metier" : "N31",
+"libelle" : "Personnel navigant du transport maritime et fluvial",
+"liste_metier" : [
+{
+"code_ogr" : 517,
+"code_rome" : "N3101",
+"libelle" : "Capitaine de port"
+}
+,
+{
+"code_ogr" : 518,
+"code_rome" : "N3102",
+"libelle" : "Marin"
+}
+,
+{
+"code_ogr" : 519,
+"code_rome" : "N3103",
+"libelle" : "Matelot de la navigation fluviale"
+}
+]
+}
+,
+{
+"code_metier" : "N32",
+"libelle" : "Personnel s�dentaire du transport maritime et fluvial",
+"liste_metier" : [
+{
+"code_ogr" : 520,
+"code_rome" : "N3201",
+"libelle" : "Agent / Agente de port de plaisance"
+}
+,
+{
+"code_ogr" : 521,
+"code_rome" : "N3202",
+"libelle" : "Responsable d'exploitation transport fluvial"
+}
+,
+{
+"code_ogr" : 522,
+"code_rome" : "N3203",
+"libelle" : "Ouvrier / Ouvri�re de manutention portuaire"
+}
+,
+{
+"code_ogr" : 489062,
+"code_rome" : "N3204",
+"libelle" : "Chef / Cheffe d'�quipe de manutention portuaire"
+}
+]
+}
+,
+{
+"code_metier" : "N41",
+"libelle" : "Personnel de conduite du transport routier",
+"liste_metier" : [
+{
+"code_ogr" : 523,
+"code_rome" : "N4101",
+"libelle" : "Conducteur / Conductrice de poids lourd"
+}
+,
+{
+"code_ogr" : 524,
+"code_rome" : "N4102",
+"libelle" : "Conducteur / Conductrice de transport de particuliers"
+}
+,
+{
+"code_ogr" : 525,
+"code_rome" : "N4103",
+"libelle" : "Conducteur / Conductrice de bus"
+}
+,
+{
+"code_ogr" : 526,
+"code_rome" : "N4104",
+"libelle" : "Coursier / Coursi�re"
+}
+,
+{
+"code_ogr" : 527,
+"code_rome" : "N4105",
+"libelle" : "Chauffeur-livreur / Chauffeuse-livreuse"
+}
+,
+{
+"code_ogr" : 488577,
+"code_rome" : "N4106",
+"libelle" : "Commis coursier / Commise coursi�re en douane"
+}
+,
+{
+"code_ogr" : 488583,
+"code_rome" : "N4107",
+"libelle" : "Conducteur livreur / Conductrice livreuse de b�ton pr�t � l'emploi"
+}
+,
+{
+"code_ogr" : 488591,
+"code_rome" : "N4108",
+"libelle" : "Chauffeur accompagnateur / Chauffeuse accompagnatrice de personnes � mobilit� r�duite"
+}
+,
+{
+"code_ogr" : 488595,
+"code_rome" : "N4109",
+"libelle" : "Conducteur / Conductrice de car"
+}
+,
+{
+"code_ogr" : 488604,
+"code_rome" : "N4110",
+"libelle" : "Releveur / Releveuse de compteurs"
+}
+,
+{
+"code_ogr" : 488611,
+"code_rome" : "N4111",
+"libelle" : "Conducteur / Conductrice super poids lourd de l'arm�e"
+}
+,
+{
+"code_ogr" : 489201,
+"code_rome" : "N4112",
+"libelle" : "Chauffeur / Chauffeuse VTC"
+}
+,
+{
+"code_ogr" : 488626,
+"code_rome" : "N4113",
+"libelle" : "Conducteur routier international / Conductrice routi�re internationale"
+}
+,
+{
+"code_ogr" : 488732,
+"code_rome" : "N4114",
+"libelle" : "Conducteur livreur avitailleur / Conductrice livreuse avitailleuse en carburant"
+}
+,
+{
+"code_ogr" : 488739,
+"code_rome" : "N4115",
+"libelle" : "Conducteur / Conductrice de v�hicules Super Lourds"
+}
+,
+{
+"code_ogr" : 488777,
+"code_rome" : "N4116",
+"libelle" : "Conducteur / Conductrice de camion-benne"
+}
+,
+{
+"code_ogr" : 489210,
+"code_rome" : "N4117",
+"libelle" : "Conducteur / Conductrice d'attelage"
+}
+,
+{
+"code_ogr" : 488857,
+"code_rome" : "N4118",
+"libelle" : "Conducteur / Conductrice enl�vement de d�chets"
+}
+,
+{
+"code_ogr" : 488874,
+"code_rome" : "N4119",
+"libelle" : "Conducteur / Conductrice de tramway"
+}
+,
+{
+"code_ogr" : 488881,
+"code_rome" : "N4120",
+"libelle" : "Chauffeur-livreur pr�parateur / Chauffeuse-livreuse pr�paratrice de commandes"
+}
+,
+{
+"code_ogr" : 488882,
+"code_rome" : "N4121",
+"libelle" : "Aide-livreur / Aide-livreuse"
+}
+,
+{
+"code_ogr" : 488884,
+"code_rome" : "N4122",
+"libelle" : "Conducteur convoyeur / Conductrice convoyeuse de v�hicule"
+}
+,
+{
+"code_ogr" : 488931,
+"code_rome" : "N4123",
+"libelle" : "Conducteur livreur installateur / Conductrice livreuse installatrice"
+}
+,
+{
+"code_ogr" : 489226,
+"code_rome" : "N4124",
+"libelle" : "Conducteur / Conductrice de taxi moto"
+}
+,
+{
+"code_ogr" : 488935,
+"code_rome" : "N4125",
+"libelle" : "Conducteur / Conductrice de transport animalier"
+}
+,
+{
+"code_ogr" : 489224,
+"code_rome" : "N4126",
+"libelle" : "Chauffeur / Chauffeuse porte voitures"
+}
+,
+{
+"code_ogr" : 489032,
+"code_rome" : "N4127",
+"libelle" : "Chauffeur accompagnateur / Chauffeuse accompagnatrice tourisme"
+}
+,
+{
+"code_ogr" : 489043,
+"code_rome" : "N4128",
+"libelle" : "Conducteur / Conductrice de navette de moins de 9 personnes"
+}
+,
+{
+"code_ogr" : 489225,
+"code_rome" : "N4129",
+"libelle" : "Conducteur / Conductrice de corbillard"
+}
+,
+{
+"code_ogr" : 489057,
+"code_rome" : "N4130",
+"libelle" : "Conducteur / Conductrice de voiture radar � conduite externalis�e"
+}
+,
+{
+"code_ogr" : 489161,
+"code_rome" : "N4131",
+"libelle" : "Chauffeur / Chauffeuse de direction"
+}
+,
+{
+"code_ogr" : 489190,
+"code_rome" : "N4132",
+"libelle" : "Agent commercial / Agente commerciale de conduite transport en commun"
+}
+]
+}
+,
+{
+"code_metier" : "N42",
+"libelle" : "Personnel d'encadrement du transport routier",
+"liste_metier" : [
+{
+"code_ogr" : 528,
+"code_rome" : "N4201",
+"libelle" : "Responsable d'agence transport routier de marchandises"
+}
+,
+{
+"code_ogr" : 529,
+"code_rome" : "N4202",
+"libelle" : "Responsable d'exploitation transport routier de personnes"
+}
+,
+{
+"code_ogr" : 530,
+"code_rome" : "N4203",
+"libelle" : "Agent / Agente d'intervention technique d'exploitation des transports routiers de marchandises"
+}
+,
+{
+"code_ogr" : 531,
+"code_rome" : "N4204",
+"libelle" : "Agent / Agente d'exploitation transport routier de personnes"
+}
+]
+}
+,
+{
+"code_metier" : "N43",
+"libelle" : "Personnel navigant du transport terrestre",
+"liste_metier" : [
+{
+"code_ogr" : 532,
+"code_rome" : "N4301",
+"libelle" : "Conducteur / Conductrice de train"
+}
+,
+{
+"code_ogr" : 533,
+"code_rome" : "N4302",
+"libelle" : "Agent / Agente de contr�le"
+}
+]
+}
+,
+{
+"code_metier" : "N44",
+"libelle" : "Personnel s�dentaire du transport ferroviaire et r�seau filo guid�",
+"liste_metier" : [
+{
+"code_ogr" : 534,
+"code_rome" : "N4401",
+"libelle" : "Aiguilleur / Aiguilleure du rail"
+}
+,
+{
+"code_ogr" : 535,
+"code_rome" : "N4402",
+"libelle" : "Agent / Agente d'exploitation des remont�es m�caniques"
+}
+,
+{
+"code_ogr" : 536,
+"code_rome" : "N4403",
+"libelle" : "Cheminot / Cheminote"
+}
+]
+}
+]
+}
+]
+}
