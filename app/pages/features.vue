@@ -1,40 +1,54 @@
 <template>
-  <div class="p-8 space-y-4">
-    <h1 class="text-3xl font-bold">Répertoire des Métiers</h1>
+  <div class="p-8 space-y-6 max-w-4xl mx-auto">
+    <h1 class="text-3xl font-bold text-gray-800 mb-6">Répertoire des Métiers</h1>
 
-    <div class="space-y-2">
-      <input
-        v-model="searchTerm"
-        type="search"
-        placeholder="Rechercher un métier…"
-        class="border px-2 py-1 w-full max-w-md"
-      />
-      <p v-if="searchTerm && filteredTree.length === 0" class="text-gray-500">
-        Aucun résultat pour “{{ searchTerm }}”
-      </p>
-      <p v-else-if="searchTerm" class="text-gray-500">
-        {{ filteredTree.length }} résultat(s)
-      </p>
+    <div class="space-y-4">
+      <div class="relative">
+        <input
+          v-model="searchTerm"
+          type="search"
+          placeholder="Rechercher un métier…"
+          class="w-full max-w-md px-4 py-3 border border-gray-300 rounded-lg shadow-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-all duration-200"
+        />
+        <div v-if="isLoading" class="absolute right-4 top-1/2 transform -translate-y-1/2">
+          <div class="animate-spin rounded-full h-5 w-5 border-b-2 border-blue-500"></div>
+        </div>
+      </div>
+
+      <div class="text-sm text-gray-500">
+        <p v-if="searchTerm && filteredTree.length === 0">
+          Aucun résultat pour "{{ searchTerm }}"
+        </p>
+        <p v-else-if="searchTerm">
+          {{ filteredTree.length }} résultat(s) trouvé(s)
+        </p>
+        <p v-else>
+          Commencez à taper pour rechercher un métier
+        </p>
+      </div>
     </div>
 
-    <ul class="mt-4">
-      <JobTreeNode
-        v-for="node in filteredTree"
-        :key="node.code"
-        :node="node"
-        :filter="searchTerm"
-      />
-    </ul>
+    <div v-if="filteredTree.length > 0" class="mt-6">
+      <ul class="space-y-2">
+        <JobTreeNode
+          v-for="node in filteredTree"
+          :key="node.code"
+          :node="node"
+          :filter="searchTerm"
+        />
+      </ul>
+    </div>
   </div>
 </template>
 
 <script setup lang="ts">
-import { ref, onMounted, computed } from 'vue'
+import { ref, onMounted, computed, watch } from 'vue'
 import JobTreeNode from '~/components/JobTreeNode.vue'
 import type { JobNode } from '~/types/job'
 
 const rawTree = ref<JobNode[]>([])
 const searchTerm = ref('')
+const isLoading = ref(false)
 
 /**
  * Transforme ta structure JSON en JobNode uniforme :
@@ -62,8 +76,11 @@ function normalizeArbo(nodes: any[]): JobNode[] {
   }))
 }
 
-// Chargement + normalisation du JSON
-onMounted(async () => {
+// Chargement des données uniquement lors de la recherche
+async function loadData() {
+  if (rawTree.value.length > 0) return // Ne pas recharger si déjà chargé
+  
+  isLoading.value = true
   try {
     const res = await fetch('/data/unix_arborescence_principale_v458.json')
     const data = await res.json()
@@ -72,16 +89,25 @@ onMounted(async () => {
     console.log('Arbre chargé, racines :', rawTree.value.length)
   } catch (e) {
     console.error('Erreur fetch métiers :', e)
+  } finally {
+    isLoading.value = false
+  }
+}
+
+// Écouteur sur le champ de recherche
+watch(searchTerm, (newValue) => {
+  if (newValue.trim().length > 0) {
+    loadData()
   }
 })
 
 // Filtre récursif (toujours children: JobNode[])
 function filterTree(nodes: JobNode[], term: string): JobNode[] {
   const t = term.trim().toLowerCase()
-  if (!t) return nodes
+  if (!t) return []
 
   return nodes.reduce<JobNode[]>((acc, node) => {
-    const children = filterTree(node.children, t)
+    const children = filterTree(node.children || [], t)
     const isMatch = node.intitule.toLowerCase().includes(t)
     if (isMatch || children.length) {
       acc.push({ ...node, children })
@@ -94,4 +120,19 @@ const filteredTree = computed(() =>
   filterTree(rawTree.value, searchTerm.value)
 )
 </script>
+
+<style scoped>
+.animate-spin {
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+</style>
 
